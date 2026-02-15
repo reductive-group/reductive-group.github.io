@@ -1,1 +1,1 @@
-This website is the rook script macroblog. You can view the microblog on bluesky at https://bsky.app/profile/rookscript.reductive.group
+This website is the rook script macroblog. You can view the microblog on bluesky at https://bsky.app/profile/rookscript.reductive.group.
