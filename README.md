@@ -16,9 +16,6 @@ Rook script is an alternative writing system for English. There are 37 letters i
     <td>
       {% include image.html src="https://i.postimg.cc/j5mYQ5ZQ/2025_11_06_rook_consonants.jpg" caption="Rook consonants" alt="Rook consonants" %}
     </td>
-    <td>
-      {% include image.html src="https://i.postimg.cc/rs4XhkPS/2025_11_06_rook_vowels.jpg" caption="Rook vowels" alt="Rook vowels" %}
-    </td>
   </tr>
 </table>
 
@@ -37,6 +34,11 @@ In rook script, every word is broken up into syllables, and each syllable is pil
     <td>
       {% include image.html src="https://i.postimg.cc/5yzdPVR3/2025-11-06-strength-example.jpg" caption="At left, the word &ldquo;strength&rdquo; spelled 3 ways: in standard Latin letters, in rook spelling with Latin letters, and linearly with rook letters. On the right the word &ldquo;strength&rdquo; is written as a rook syllable." alt="Rook syllable strength" %}
     </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
     <td>
       {% include image.html src="https://i.postimg.cc/rmv7RHwz/2026_01_28_dhii_roi_l_yuuth.jpg" caption="A pangram in rook script. In Latin, the sentence reads, &ldquo;The royal youth are measuring bad vibes to exchange one more homebound sheep for a good sieve.&rdquo;" alt="Rook script pangram" %}
     </td>
