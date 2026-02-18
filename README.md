@@ -35,7 +35,7 @@ In rook script, every word is broken up into syllables, and each syllable is pil
       {% include image.html src="https://i.postimg.cc/d3CPWYx9/2025_11_06_syllable_structure.jpg" caption="Structure of a rook syllable" alt="Rook syllable" %}
     </td>
     <td>
-      {% include image.html src="https://i.postimg.cc/5yzdPVR3/2025-11-06-strength-example.jpg" caption="At left, the word &ldquo;strength&rdquo; spelled 3 ways: in standard Latin letters, in rook spelling with Latin letters, and linearly with rook letters. On the right the word &ldquo;strength&rdquo; is written as a rook syllable." alt="Rook syllable strength" %}
+      {% include image.html src="https://i.postimg.cc/5yzdPVR3/2025-11-06-strength-example.jpg" caption="Example of a rook syllable using the word &ldquo;strength&rdquo;" alt="Rook syllable strength" %}
     </td>
   </tr>
 </table>
