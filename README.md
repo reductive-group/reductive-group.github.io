@@ -1,9 +1,10 @@
 Rook script is an alternative writing system for English. There are 37 letters in the rook script alphabet: 24 consonants and 13 vowels, each representing a distinct sound.
 
-{% include image.html src="https://i.postimg.cc/wMN8WpGs/2025_11_06_rook_consonants_romanized.jpg" caption="Rook consonant sounds, using Latin letters" alt="Rook consonant sounds" %}
-{% include image.html src="https://i.postimg.cc/wMN8WpGs/2025_11_06_rook_consonants_romanized.jpg" caption="Rook vowel sounds, using Latin letters" alt="Rook vowel sounds" %}
-{% include image.html src="https://i.postimg.cc/j5mYQ5ZQ/2025_11_06_rook_consonants.jpg" caption="Rook consonants" alt="Rook consonants" %}
-{% include image.html src="https://i.postimg.cc/rs4XhkPS/2025_11_06_rook_vowels.jpg" caption="Rook vowels" alt="Rook vowels" %}
+| {% include image.html src="https://i.postimg.cc/wMN8WpGs/2025_11_06_rook_consonants_romanized.jpg" caption="Rook consonant sounds, using Latin letters" alt="Rook consonant sounds" %} | {% include image.html src="https://i.postimg.cc/wMN8WpGs/2025_11_06_rook_consonants_romanized.jpg" caption="Rook vowel sounds, using Latin letters" alt="Rook vowel sounds" %} |
+|:---:|:---:|
+
+| {% include image.html src="https://i.postimg.cc/j5mYQ5ZQ/2025_11_06_rook_consonants.jpg" caption="Rook consonants" alt="Rook consonants" %} | {% include image.html src="https://i.postimg.cc/rs4XhkPS/2025_11_06_rook_vowels.jpg" caption="Rook vowels" alt="Rook vowels" %} |
+|:---|:---:|
 
 <!--![Rook consonant sounds](https://i.postimg.cc/wMN8WpGs/2025_11_06_rook_consonants_romanized.jpg)
 ![Rook vowel sounds](https://i.postimg.cc/gjhFMWTh/2025_11_06_rook_vowels_romanized.jpg)
