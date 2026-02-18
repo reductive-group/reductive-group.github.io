@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 .photo-table 
 {
-  border: 0;
-  padding: 0;
+  border: 1px solid black;
+  padding: none;
+  margin: none;
   text-align: center;
 }
