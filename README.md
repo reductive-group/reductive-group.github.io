@@ -9,9 +9,6 @@ Rook script is an alternative writing system for English. There are 37 letters i
       {% include image.html src="https://i.postimg.cc/gjhFMWTh/2025_11_06_rook_vowels_romanized.jpg" caption="Rook vowel sounds, using Latin letters" alt="Rook vowel sounds" %}
     </td>
   </tr>
-</table>
-
-<table class="photo-table">
   <tr>
     <td>
       {% include image.html src="https://i.postimg.cc/j5mYQ5ZQ/2025_11_06_rook_consonants.jpg" caption="Rook consonants" alt="Rook consonants" %}
