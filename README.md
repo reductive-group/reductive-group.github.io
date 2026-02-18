@@ -40,5 +40,6 @@ In rook script, every word is broken up into syllables, and each syllable has th
   </tr>
 </table>
 
+Every word in English has an official rook spelling, specifying both the sequence of letters and the boundary points between syllables, though the spellings of many words have changed recently. You can see the current spellings of about 1,500 words in the rook script [dictionary](https://docs.google.com/spreadsheets/d/1Hr1Eyu2BLganoblsPMf3o-_bwgakcLiA/edit?usp=drive_link&ouid=112419566463325957235&rtpof=true&sd=true), and you can learn about the principles of rook script spelling in the pages of this blog.
 
 If you’re interested in writing in rook script, it is recommended to start by learning the alphabet. When you have that down, practice reading, and practice spelling without worrying too much about the syllable boundaries. If you plan to use rook script in a professional capacity then you will want to make sure to spell correctly, including syllable boundaries.
