@@ -4,17 +4,9 @@
 @import "{{ site.theme }}";
 .photo-table 
 {
-  border: 1px solid blue;
+  border: none;
   padding: none;
   margin: none;
   spacing: none;
   text-align: center;
-}
-
-.photo-table tr, .photo-table td
-{
-  border: 1px solid green;
-  padding: none;
-  margin: none;
-  spacing: none;
 }
