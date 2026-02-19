@@ -12,7 +12,7 @@ This post will explore how consonants and vowels work in rook script and how the
 
 (tables again)
 
-## Consonant Sounds in General American English
+## Consonant sounds in English
 
 In English, consonants are determined by 3 features: place, manner, and voicing. Let’s explore what each of them mean for the sounds of English. 
 
@@ -49,3 +49,4 @@ Finally, say the words “teeth” and “teethe”; they differ by only the las
 | voiced | /b/, /d/, /g/, /v/, /ð/, /z/, /ʒ/, /dʒ/ |
 | neutral | /m/, /n/, /ŋ/, /w/, /r/, /l/, /j/ |
 
+## Vowel sounds in General American English
