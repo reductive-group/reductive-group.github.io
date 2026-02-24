@@ -62,7 +62,7 @@ Something amazing about human languages is that although vowels tend to move, me
 
 In rook script, there are 6 short vowels and 7 long vowels suggestive of pairs of short vowels. The short vowels are as follows:
 | Sound | Common name | Example word | Position | Romanization |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | /ɪ/ | Short i | b**i**t | Close front | i |
 | /ɛ/ | Short e | l**e**t | Mid front | e |
 | /æ/ | Short a | c**a**t | Open front | a |
