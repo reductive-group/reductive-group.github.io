@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: post
 title: Letter Features
 ---
 
 # The Rook Script Alphabet Tables
 
-This post explores how consonants and vowels are organized in rook script, based on features of the sounds they represent. Hopefully it will be helpful in learning and understanding the alphabet. It also explains how rook script understands and uses certain phonetic concepts both in spelling and writing, so future pages will refer back to this one. A previous post focuses on the sounds made by the letters, and future ones will focus on using the letters to spell words.
+This post explores how consonants and vowels are organized in rook script, based on features of the sounds they represent. Hopefully it’s helpful for learning and understanding the alphabet. It also explains how rook script treats certain phonetic concepts both in spelling and writing, so future posts will refer back to this one. A previous post focuses on the sounds made by the letters, and future ones will focus on how the letters are used to spell words.
 
 <table>
   <tr>
@@ -18,11 +18,11 @@ This post explores how consonants and vowels are organized in rook script, based
   </tr>
 </table>
 
-## Consonants
+## Consonant features
 
-In English, consonants are determined by 3 features: place, manner, and voicing. Let’s explore what each of them mean for the sounds of English. 
+In English, consonants are determined by 3 features: place, manner, and voicing. When speaking, air is forced from the lungs out of the body. The space in between—the throat, the mouth, and the nasal cavity—are known as the *vocal tract*. At any point in the vocal tract the flow of air can be disturbed: it can be stopped, redirected, and forced through narrow openings of different shapes, making sounds heard as consonants. In English every consonant can be associated with a characteristic place in the vocal tract where such a disturbance happens.
 
-When speaking, air is forced from the lungs out into the world. The space in between: the throat, the mouth, and the nasal cavity, are known as the *vocal tract*. At any point in the vocal tract the flow of air can be disturbed: it can be stopped, redirected, and forced through narrow openings of different shapes, making sounds heard as consonants. In English every consonant can be associated with a single place in the vocal tract. 
+### Place
 
 When you say the words “peg” and “keg” out loud, the only difference between them is that “peg” begins with a /p/ sound and “keg” begins with a /k/ sound. To make the /p/ sound, you need to bring your lips together, so it is associated with the lips. We say the *place* of /p/ is the lips, or that /p/ is *labial*. On the other hand, to make the /k/ sound, you bring the back of your tongue upward into the roof of your mouth. We therefore associate /k/ with the velum, or soft palate, or say that /k/ is *velar*. In English all the places of consonants can be sorted from the front of the vocal tract (the lips) to the back (the throat).
 
@@ -36,7 +36,9 @@ When you say the words “peg” and “keg” out loud, the only difference bet
 | soft palate | velar | /k/, /g/, /ŋ/ (ng) |
 | vocal cords | glottal | /h/ |
 
-Now consider the words “dip”, “nip”, “zip”, and “lip”. From the table above, we see that the first sound in all four words is alveolar; what distinguishes them is the manner. When you say /d/, the air is completely blocked for a moment. We say the manner of /d/ is *oral stop* because it stops all the sound coming out of your mouth. When you say /n/, the air is not allowed out of your mouth, but is redirected into your nasal cavity. We say the manner of /n/ is *nasal stop*. When discussing English there is no confusion to simply call /d/ a *stop* and /n/ a *nasal*. When you say /z/, the air is funneled turbulently through a small gap, producing a hissing sound. We say the manner of /z/ is *sibilant*, which is a type of *fricative*. English has a lot of fricatives (narrow gap and turbulent air) and only some of them are sibilant (producing a hissing sound), so I will usually refer to letters like /z/ as *sibilants* and use “fricative” for non-sibilant fricatives. And finally, when you say /l/, your tongue touches the back of your gums but the air is not stopped—instead it flows freely around the tongue on both sides. Being as specific as possible, we can say the manner of /l/ is *lateral*, meaning the air flows around the sides of the tongue. In English /l/ is the only lateral, but there are other consonants where the air is allowed to flow with relative freedom. These are the *liquids*, and they include a lateral, /l/, as well as an *approximant*, /r/, and two *glides*, /w/ and /j/. In English all of the manners can be sorted roughly from most obstruent (stops) to most sonorant (liquids).
+### Manner
+
+Now consider the words “dip”, “nip”, “zip”, and “lip”. From the table above, the first sound in all four words is alveolar; what distinguishes them is the manner. When you pronounce /d/, the air is completely blocked for a moment. We say the manner of /d/ is *oral stop* because it stops all the sound coming out of your mouth. When you pronounce /n/, the air is not allowed out of your mouth, but is redirected through your nasal cavity. We say the manner of /n/ is *nasal stop*. When discussing English there is no confusion to simply call /d/ a *stop* and /n/ a *nasal*. When you pronounce /z/, the air is funneled turbulently through a small gap, producing a hissing sound. We say the manner of /z/ is *sibilant*, which is a type of *fricative*. English has a lot of fricatives (narrow gap and turbulent air) and only some of them are sibilant (producing a hissing sound), so I will usually refer to letters like /z/ as *sibilants* and use “fricative” for non-sibilant fricatives. And finally, when you pronounce /l/, your tongue touches the back of your gums but the air is not stopped—instead it flows freely around the tongue on both sides. Being as specific as possible, we can say the manner of /l/ is *lateral appproximant* (or simply “lateral”), meaning the air flows around the sides of the tongue. In English /l/ is the only lateral, but there are other *approximants*, or consonants where the air is allowed to flow with relative freedom. These include “the” alveolar approximant /r/, and two *glides*, /w/ and /j/. In English the manners can be sorted roughly from most *obstruent* (stops) to most *sonorant* (approximants).
 
 | manner | consonants |
 | --- | --- |
@@ -45,9 +47,11 @@ Now consider the words “dip”, “nip”, “zip”, and “lip”. From the 
 | fricative | /f/, /v/, /θ/, /ð/, /h/ |
 | sibilant (fricative) | /s/, /z/, /ʃ/, /ʒ/ |
 | nasal | /m/, /n/, /ŋ/ |
-| liquid | /w/, /r/, /l/, /j/ |
+| approximant | /w/, /r/, /l/, /j/ |
 
-Finally, say the words “teeth” and “teethe”; they differ by only the last sound. “Teeth” ends in /θ/, sometimes referred to as “soft th”, and “teethe” ends in /ð/, or “hard th”. The feature that distinguishes them is *voicing*, or vibration of the vocal cords: /θ/ is *unvoiced*, while /ð/ is *voiced*. Stops, affricates, fricatives, and sibilants in English usually come in voiced/unvoiced pairs. Nasals and liquids (as well as vowels) are all voiced in English, but they can also be seen as *neutral* since they don’t influence the voicing of surrounding sounds.
+### Voicing
+
+Finally, consider the words “teeth” and “teethe”; they differ by only the last sound. “Teeth” ends in /θ/, sometimes referred to as “soft th”, and “teethe” ends in /ð/, or “hard th”. The feature that distinguishes them is *voicing*, or vibration of the vocal cords: /θ/ is *unvoiced*, while /ð/ is *voiced*. Stops, affricates, fricatives, and sibilants in English usually come in voiced/unvoiced pairs. Nasals and approximants (as well as vowels) are all voiced in English, but they can also be seen as *neutral* since they don’t influence the voicing of surrounding sounds.
 
 | voicing | consonants |
 | --- | --- |
@@ -55,11 +59,11 @@ Finally, say the words “teeth” and “teethe”; they differ by only the las
 | voiced | /b/, /d/, /g/, /v/, /ð/, /z/, /ʒ/, /dʒ/ |
 | neutral | /m/, /n/, /ŋ/, /w/, /r/, /l/, /j/ |
 
-## Vowel sounds in General American English
+## The vowel space
 
-In English, vowels vary considerably between dialects. When reading, bear in mind that I am discussing the version of English that I speak.
+In English, vowels vary considerably between dialects. Bear in mind that this is a discussion of the particular English that I speak.
 
-Vowels in English are characterized by two continuous variables, so they can be plotted in a region of the *xy*-plane called the *vowel space*. The vowel space be visualized as a triangle pointing downward with 3 extreme vowels at the corners. At the bottom is /a/, the sound you make to allow a doctor to see your tonsils, but not quite a sound of American English. At the top-left is /i/, the vowel in “eat”; and at the top-right is /u/, the vowel in “ooze”.
+Vowels in English are characterized by two continuous variables, and can be plotted in a region of the *xy*-plane called the *vowel space*. The vowel space be visualized as a triangle pointing downward with 3 extreme vowels at the corners. At the bottom is /a/, the sound you make to allow a doctor to see your tonsils, but not quite a sound of American English. At the top-left is /i/, the vowel in “eat”; and at the top-right is /u/, the vowel in “ooze”.
 
 (image of 3 cardinal vowels)
 
@@ -67,7 +71,7 @@ When navigating the vowel space, it’s helpful to know the names of the directi
 
 (image of old fashioned trapezoid superimposed on a vocal tract)
 
-Something amazing about human languages is that although vowels tend to move, merge, and split over time, vowel systems as a whole tend to maintain a degree of symmetry and logic. Rook script systematizes the vowel space in two different ways: a traditional way used in the designs of the letters and their romanizations, and an original analysis that better predicts spelling patterns and phonology. In this page we will focus on the traditional system.
+Something amazing about human languages is that although vowels tend to move, merge, and split over time, vowel systems as a whole tend to maintain a degree of symmetry and logic. Rook script systematizes the vowel space in two different ways: a traditional way used in the designs of the letters, and an original analysis that better predicts spelling patterns and phonology. In this page we will focus on the traditional system.
 
 In rook script, there are 6 short vowels and 7 long vowels suggestive of pairs of short vowels. The short vowels are as follows:
 
@@ -90,7 +94,7 @@ The long vowels of rook script are as follows:
 | /i/ | /iː/ | ii |
 | /ei/ | /eɪ/ | ei |
 | /ai/ | /aɪ/ | ai |
-| /ɔi/ | /ɔɪ/ | oi |
+| /oi/ | /ɔɪ/ | oi |
 | /u/ | /uː/ | uu |
 | /ou/ | /oʊ/ | ou |
 | /au/ | /aʊ/ | au |
