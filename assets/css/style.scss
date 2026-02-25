@@ -2,6 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
+
 .photo-table 
 {
   border: none;
@@ -10,4 +11,9 @@
   spacing: none;
   text-align: center;
   width: 100%;
+};
+
+figcaption
+{
+  text: smaller;
 }
