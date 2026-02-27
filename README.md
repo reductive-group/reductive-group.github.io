@@ -11,10 +11,10 @@ Rook script is an alternative writing system for English. There are 37 letters i
   </tr>
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/j5mYQ5ZQ/2025_11_06_rook_consonants.jpg" caption="Rook consonants" alt="Rook consonants" %}
+      {% include image.html src="https://i.postimg.cc/FHTSZhQp/2026_02_26_rook_consonants.jpg" caption="Rook consonants" alt="Rook consonants" %}
     </td>
     <td>
-      {% include image.html src="https://i.postimg.cc/rs4XhkPS/2025_11_06_rook_vowels.jpg" caption="Rook vowels" alt="Rook vowels" %}
+      {% include image.html src="https://i.postimg.cc/Z5wNcJhx/2026_02_26_rook_vowels.jpg" caption="Rook vowels" alt="Rook vowels" %}
     </td>
   </tr>
 </table>
@@ -27,7 +27,7 @@ In rook script, every word is broken up into syllables, and each syllable has th
       {% include image.html src="https://i.postimg.cc/d3CPWYx9/2025_11_06_syllable_structure.jpg" caption="Structure of a rook syllable" alt="Rook syllable" %}
     </td>
     <td>
-      {% include image.html src="https://i.postimg.cc/5yzdPVR3/2025-11-06-strength-example.jpg" caption="Example of a rook syllable using the word &ldquo;strength&rdquo;" alt="Rook syllable strength" %}
+      {% include image.html src="https://i.postimg.cc/NjdX4Qwx/2026_02_26_strength.jpg" caption="Example of a rook syllable using the word &ldquo;strength&rdquo;" alt="Rook syllable strength" %}
     </td>
   </tr>
 </table>
@@ -35,7 +35,7 @@ In rook script, every word is broken up into syllables, and each syllable has th
 <table>
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/rmv7RHwz/2026_01_28_dhii_roi_l_yuuth.jpg" caption="A pangram in rook script. In Latin, the sentence reads, &ldquo;The royal youth are measuring bad vibes to exchange one more homebound sheep for a good sieve.&rdquo;" alt="Rook script pangram" %}
+      {% include image.html src="https://i.postimg.cc/GmXDQb1Q/2026_02_26_dhii_roi_l_yuuth.jpg" caption="A pangram in rook script. In Latin, the sentence reads, &ldquo;The royal youth are measuring bad vibes to exchange one more homebound sheep for a good sieve.&rdquo;" alt="Rook script pangram" %}
     </td>
   </tr>
 </table>
@@ -44,4 +44,6 @@ Every word in English has an official rook spelling, specifying both the sequenc
 
 If you’re interested in writing in rook script, it is recommended to start by learning the alphabet. When you have that down, practice reading, and practice spelling without worrying too much about the syllable boundaries. If you plan to use rook script in a professional capacity then you will want to make sure to spell correctly, including syllable boundaries.
 
+
+Link to [Alphabet]({% post_url 2026-02024-Alphabet %})
 Link to [Features]({% post_url 2026-02-24-Features %})
