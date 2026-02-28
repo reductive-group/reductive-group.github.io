@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Making Valid Syllables
 author: Reductive Group
 tags: [lesson]
