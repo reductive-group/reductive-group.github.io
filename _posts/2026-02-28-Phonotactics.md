@@ -56,7 +56,34 @@ Many phonotactic constraints can be described in terms of manner of the consonan
 
 ### Onset clusters
 
-An onset has 3 slots, each of which may be empty or filled. The first slot can only be filled with /s/, and only if the second slot is filled with /p/, /t/, /k/, /m/, /n/, /w/, or /l/. The following table lists all the valid combinations of the second and third slots. The second slot is for stops, fricatives, sibilants, and nasals while the third is exclusively for approximants.
+I don’t know how to explain exactly how it works. There are two joints here: /s/ + core letter + approximant.
+
+<table>
+  <tr>
+    <td></td>
+    <th> /s/ </th>
+  </tr>
+  <tr>
+    <th> /p/ </th>
+    <td> /sp/ </td>
+  </tr>
+  <tr>
+    <th> /t/ </th>
+    <td> /st/ </td>
+  </tr>
+  <tr>
+    <th> /k/ </th>
+    <td> /sk/ </td>
+  </tr>
+  <tr>
+    <th> /m/ </th>
+    <td> /sm/ </td>
+  </tr>
+  <tr>
+    <th> /n/ </th>
+    <td> /sn/ </td>
+  </tr>
+</table>
 
 <table>
   <tr>
