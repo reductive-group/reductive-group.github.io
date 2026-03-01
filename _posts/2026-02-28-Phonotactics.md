@@ -174,14 +174,14 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
   <tr>
     <th> /tʃ/ </th>
     <td> – </td>
-    <td> /tr/<sup>3</sup> </td>
+    <td> –<sup>3</sup> </td>
     <td> – </td>
     <td> – </td>
   </tr>
   <tr>
     <th> /dʒ/ </th>
     <td> – </td>
-    <td> /dr/<sup>3</sup> </td>
+    <td> –<sup>3</sup> </td>
     <td> – </td>
     <td> – </td>
   </tr>
@@ -200,12 +200,14 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
     <td> – </td>
   </tr>
 </table>  
-<sup>1</sup> Only appears with vowel uu  
+<sup>1</sup> Only appears with vowel /u/  
 <sup>2</sup> Marginal  
-<sup>3</sup> /tr/ is realized equivalent to /tʃr/ and /dr/ is realized equivalent to /dʒr/. In rook script, chr and jr are considered invalid as the sound sequences are always spelled tr and dr respectively  
+<sup>3</sup> /tr/ is realized as \[tʃr\] and /dr/ is realized as \[dʒr\]. In rook script, chr and jr are considered invalid as the sound sequences are always spelled tr and dr respectively  
 <sup>4</sup> This only applies to /s/ in slot 2
 
-### Sonorance progression in coda
+### Coda clusters
+
+
 
 ### Sonorance progression remarks
 
