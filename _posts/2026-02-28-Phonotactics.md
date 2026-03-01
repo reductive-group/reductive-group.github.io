@@ -82,124 +82,128 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
   </tr>
   <tr>
     <th> /f/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> - </td>
+    <td> /fr/ </td>
+    <td> /fl/ </td>
+    <td> /fj/<sup>1</sup> </td>
   </tr>
   <tr>
     <th> /v/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> - </td>
+    <td> /vr/<sup>2</sup> </td>
+    <td> /vl/<sup>2</sup> </td>
+    <td> /vj/<sup>1</sup> </td>
   </tr>
   <tr>
     <th> /t/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> /tw/ </td>
+    <td> /tr/<sup>3</sup> </td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <th> /d/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> /dw/ </td>
+    <td> /dr/<sup>3</sup> </td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <th> /θ/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> /θw/<sup>2</sup> </td>
+    <td> /θr/ </td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <th> /ð/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <th> /k/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> /kw/ </td>
+    <td> /kr/ </td>
+    <td> /kl/ </td>
+    <td> /kj/<sup>1</sup> </td>
   </tr>
   <tr>
     <th> /g/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> /gw/<sup>2</sup> </td>
+    <td> /gr/ </td>
+    <td> /gl/ </td>
+    <td> /gw/<sup>2</sup> </td>
   </tr>
   <tr>
     <th> /h/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
-    <th> /s/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <th> /s/<sup>4</sup> </th>
+    <td> /sw/ </td>
+    <td> - </td>
+    <td> /sl/ </td>
+    <td> - </td>
   </tr>
   <tr>
     <th> /z/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> /zw/<sup>2</sup> </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <th> /ʃ/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> /ʃw/<sup>2</sup> </td>
+    <td> /ʃr/ </td>
+    <td> /ʃl/<sup>2</sup> </td>
+    <td> - </td>
   </tr>
   <tr>
     <th> /ʒ/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <th> /tʃ/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> - </td>
+    <td> /tr/<sup>3</sup> </td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <th> /dʒ/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> - </td>
+    <td> /dr/<sup>3</sup> </td>
+    <td> - </td>
+    <td> - </td>
   </tr>
   <tr>
     <th> /m/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> /mw/<sup>2</sup> </td>
+    <td> - </td>
+    <td> - </td>
+    <td> /mj/<sup>1</sup> </td>
   </tr>
   <tr>
     <th> /n/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> /nw/<sup>1</sup> </td>
+    <td> - </td>
+    <td> - </td>
+    <td> - </td>
   </tr>
-</table>
+</table>  
+<sup>1</sup> Only appears with vowel uu  
+<sup>2</sup> Marginal  
+<sup>3</sup> /tr/ is realized equivalent to /tʃr/ and /dr/ is realized equivalent to /dʒr/. In rook script, chr and jr are considered invalid as the sound sequences are always spelled tr and dr respectively  
+<sup>4</sup> This only applies to /s/ in slot 2
 
 ### Sonorance progression in coda
 
