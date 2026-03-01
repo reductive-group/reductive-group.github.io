@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Making Valid Syllables
+title: Syllable Boundaries 1: Validity
 author: Reductive Group
 tags: [lesson]
 ---
@@ -9,7 +9,7 @@ There are two major components of spelling in rook script. The first, and more i
 
 ## Syllable boundaries
 
-Rook script is a syllablic alphabet, meaning words are broken up into syllables. When writinng linearly, the simplest way to assign each letter to a syllable is to indicate the boundary points between syllables in a word. In Latin transcriptions of rook spellings of words, an interpunct symbol “·” indicates the end of one syllable and the start of the next.
+Rook script is a syllablic alphabet, meaning words are broken up into syllables. When writinng linearly, the simplest way to assign each letter to a syllable is to indicate the boundary points between syllables in a word. For instance once you have broken a word “function” into sounds, /fəŋkʃən/, since it is two syllables you need to find the point where one syllable ends and the next begins. In Latin transcriptions of rook spellings of words, an interpunct symbol “·” indicates the end of one syllable and the start of the next. In this case the official rook spelling is “function\|fəngk·shən”, meaning the two syllables are “fəngk” and “shən”.
 
 There are several considerations when placing syllable boundaries:
 1. validity
@@ -30,15 +30,15 @@ There are millions of rook valid syllables. I haven’t done the calculations to
 An English syllable has 3 components: onset, vowel, and coda. All of the letters in an onset or coda are consonants. The longest onsets in English have 3 sounds, and the longest codas have 4. Not every syllable has any sounds in the onset or coda, but every syllable has a vowel. All together, we can say the structure of an English syllable is 3 optional consonants, followed by one obligatory vowel, and then 4 optional consonants:
 > (CCC)V(CCCC)
 
-Furthermore, the morphological patterns that allow 4 coda consonants only appear at the ends of words. So for finding syllable breaks, any time 4 or more consonants appear together some must fall on either side of the boundary. For example the sequence /kstr/ in “jockstrap” must be split over both syllables. Indeed, the rook spelling is “jockstrap\|jok·strap”
+Furthermore, the morphological patterns that allow 4 coda consonants only appear at the ends of words. So for finding syllable breaks, any time 4 or more consonants appear together some must fall on either side of the boundary. For example the sequence /kstr/ in “jockstrap” must be split over two syllables. Indeed, the rook spelling is “jockstrap\|jok·strap”.
 
-In spoken English, it’s actually common to pronounce some syllables without articulating a vowel. In unstressed syllables, the consonants /m/, /n/, and /l/ can all be pronounced *syllabically* in place of a vowel. For instance, when saying the word “girdle”, the /d/ sound is released laterally, meaning that the /l/ sound begins directly aftwerwards without a vowel in between. In rook script, a syllabic consonant is always written as ə followed by the consonant, so we have “girdle\|gərd·əl”.
+In spoken English, it’s common to pronounce some syllables without articulating a vowel. In unstressed syllables, the consonants /m/, /n/, and /l/ can all be pronounced *syllabically* in place of a vowel. For instance, when saying the word “girdle”, the /d/ sound is released laterally, meaning that the /l/ sound begins directly aftwerwards without a vowel in between. In rook script, a syllabic consonant is always written as ə followed by the consonant, so we have for example “girdle\|gərd·əl”.
 
 Relatedly, the sound combination /əɹ/ is often realized as a single sound, but I view that sound as a vowel rather than a syllabic consonant. It is also always spelled with ə in rook script, for instance “after\|aft·ər”.
 
 ## Onset and coda constraints
 
-The /ŋ/ sound does not appear in onsets. The sounds /h/, /w/, and /y/ do not appear in codas. Two examples of words where these sounds appear in the middle are “singer\|siing·ər” and “cahoots\|kə·huuts”.
+The /ŋ/ sound does not appear in onsets. The sounds /h/, /w/, and /y/ do not appear in codas. Two examples of words where this constraint guides boundary placement are the words “singing\|siing·iing” and “cahoots\|kə·huuts”. The theoretical syllables “ngiing” and “kəh” are invalid, leaving only one possible position for the syllable boundary.
 
 ## Voicing assimilation
 
@@ -48,11 +48,11 @@ Recall that nasals and approximants are considered neutrally voiced, so they may
 
 In handwritten rook script, the *voicing stroke* can be treated almost as a letter in itself. It is typically written after all letters of the cluster, whether onset or coda, and crosses through all letters. Furthermore, voiced onsets are limited to 2 consonants and voiced codas are limited to 3 consonants; both as a consequence of sonorance progression.
 
-Exceptions should be limited to one-syllable words, such as “width\|width”. When handwriting it is acceptable to withhold the voicing stroke, essentially spelling it “width\|witth”.
+Note that exceptions exist, but the syllables they form are not technically valid. For example, in the word “width\|width”, the /d/ is voiced while the /θ/ is unvoiced and they appear together in the coda. When handwriting it is acceptable to withhold the voicing stroke, essentially spelling it “width\|witth”, in recognition of the fact that the word is typically pronounced \[witθ\]; however, the official rook spelling remains “width\|width”.
 
-## Manner constraints
+## Cluster constraints
 
-Many phonotactic constraints can be described in terms of manner of the consonants.
+Syllable validity can be determined by pairs of consonants that are allowed to appear together. Here is a list of what it is.
 
 ### Onset clusters
 
