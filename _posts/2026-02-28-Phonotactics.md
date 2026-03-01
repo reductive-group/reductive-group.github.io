@@ -134,7 +134,7 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
     <td> /gw/<sup>2</sup> </td>
     <td> /gɹ/ </td>
     <td> /gl/ </td>
-    <td> /gw/<sup>2</sup> </td>
+    <td> – </td>
   </tr>
   <tr>
     <th> /h/ </th>
@@ -207,7 +207,7 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
 
 ### Coda clusters
 
-Codas are essentially reversed from onsets. Rather than /s/ + obstruent + approximant, codas are build as approximant + semi-obstruent + obstruent + /s/, /z/, /t/, /d/.
+Codas are largely reversed from onsets. Rather than /s/ + obstruent + approximant, codas are build as approximant + semi-obstruent + obstruent + /s/, /z/, /t/, /d/.
 
 <table>
   <tr>
