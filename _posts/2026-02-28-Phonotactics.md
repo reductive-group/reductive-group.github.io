@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Syllable Boundaries 1: Validity
+title: Syllable Boundaries 1':' Validity
 author: Reductive Group
 tags: [lesson]
 ---
