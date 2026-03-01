@@ -68,14 +68,14 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
   </tr>
   <tr>
     <th> /p/ </th>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
     <td> /pr/ </td>
     <td> /pl/ </td>
     <td> /pj/<sup>1</sup> </td>
   </tr>
   <tr>
     <th> /b/ </th>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
     <td> /br/ </td>
     <td> /bl/ </td>
     <td> /bj/<sup>1</sup> </td>
@@ -89,7 +89,7 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
   </tr>
   <tr>
     <th> /v/ </th>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
     <td> /vr/<sup>2</sup> </td>
     <td> /vl/<sup>2</sup> </td>
     <td> /vj/<sup>1</sup> </td>
@@ -98,29 +98,29 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
     <th> /t/ </th>
     <td> /tw/ </td>
     <td> /tr/<sup>3</sup> </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
+    <td> – </td>
   </tr>
   <tr>
     <th> /d/ </th>
     <td> /dw/ </td>
     <td> /dr/<sup>3</sup> </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
+    <td> – </td>
   </tr>
   <tr>
     <th> /θ/ </th>
     <td> /θw/<sup>2</sup> </td>
     <td> /θr/ </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
+    <td> – </td>
   </tr>
   <tr>
     <th> /ð/ </th>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
   </tr>
   <tr>
     <th> /k/ </th>
@@ -138,66 +138,66 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
   </tr>
   <tr>
     <th> /h/ </th>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
   </tr>
   <tr>
     <th> /s/<sup>4</sup> </th>
     <td> /sw/ </td>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
     <td> /sl/ </td>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
   </tr>
   <tr>
     <th> /z/ </th>
     <td> /zw/<sup>2</sup> </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
   </tr>
   <tr>
     <th> /ʃ/ </th>
     <td> /ʃw/<sup>2</sup> </td>
     <td> /ʃr/ </td>
     <td> /ʃl/<sup>2</sup> </td>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
   </tr>
   <tr>
     <th> /ʒ/ </th>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
   </tr>
   <tr>
     <th> /tʃ/ </th>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
     <td> /tr/<sup>3</sup> </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
+    <td> – </td>
   </tr>
   <tr>
     <th> /dʒ/ </th>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
     <td> /dr/<sup>3</sup> </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
+    <td> – </td>
   </tr>
   <tr>
     <th> /m/ </th>
     <td> /mw/<sup>2</sup> </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
+    <td> – </td>
     <td> /mj/<sup>1</sup> </td>
   </tr>
   <tr>
     <th> /n/ </th>
     <td> /nw/<sup>1</sup> </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
-    <td style="text-align:center"> – </td>
+    <td> – </td>
+    <td> – </td>
+    <td> – </td>
   </tr>
 </table>  
 <sup>1</sup> Only appears with vowel uu  
