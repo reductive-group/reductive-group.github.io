@@ -61,26 +61,18 @@ I don’t know how to explain exactly how it works. There are two joints here: /
 <table>
   <tr>
     <td></td>
-    <th> /s/ </th>
-  </tr>
-  <tr>
     <th> /p/ </th>
-    <td> /sp/ </td>
-  </tr>
-  <tr>
     <th> /t/ </th>
-    <td> /st/ </td>
-  </tr>
-  <tr>
     <th> /k/ </th>
-    <td> /sk/ </td>
-  </tr>
-  <tr>
     <th> /m/ </th>
-    <td> /sm/ </td>
+    <th> /n/ </th>
   </tr>
   <tr>
-    <th> /n/ </th>
+    <th> /s/ </th>
+    <td> /sp/ </td>
+    <td> /st/ </td>
+    <td> /sk/ </td>
+    <td> /sm/ </td>
     <td> /sn/ </td>
   </tr>
 </table>
