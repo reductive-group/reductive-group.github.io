@@ -68,17 +68,17 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
   </tr>
   <tr>
     <th> /p/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> - </td>
+    <td> /pr/ </td>
+    <td> /pl/ </td>
+    <td> /pj/<sup>1</sup> </td>
   </tr>
   <tr>
     <th> /b/ </th>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td> - </td>
+    <td> /br/ </td>
+    <td> /bl/ </td>
+    <td> /bj/<sup>1</sup> </td>
   </tr>
   <tr>
     <th> /f/ </th>
