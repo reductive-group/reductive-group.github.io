@@ -194,7 +194,7 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
   </tr>
   <tr>
     <th> /n/ </th>
-    <td> /nw/<sup>1</sup> </td>
+    <td> /nw/<sup>2</sup> </td>
     <td> – </td>
     <td> – </td>
     <td> – </td>
