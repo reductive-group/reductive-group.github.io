@@ -45,6 +45,6 @@ Every word in English has an official rook spelling, specifying both the sequenc
 If you’re interested in writing in rook script, it is recommended to start by learning the alphabet. When you have that down, practice reading, and practice spelling without worrying too much about the syllable boundaries. If you plan to use rook script in a professional capacity then you will want to make sure to spell correctly, including syllable boundaries.
 
 
-Link to [Alphabet]({% post_url 2026-02-24-Alphabet %})
-
-Link to [Features]({% post_url 2026-02-24-Features %})
+Read about the [alphabet]({% post_url 2026-02-24-Alphabet %})  
+Read about the alphabet [tables]({% post_url 2026-02-24-Tables %})  
+Read about validity of [syllables]({% post_url 2026-02-28-Phonotactics %})
