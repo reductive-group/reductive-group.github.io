@@ -60,58 +60,58 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
 
 <table>
   <tr>
-    <td>↓2  3→</td>
+    <td></td>
     <th> /w/ </th>
-    <th> /r/ </th>
+    <th> /ɹ/ </th>
     <th> /l/ </th>
     <th> /y/ </th>
   </tr>
   <tr>
     <th> /p/ </th>
     <td> – </td>
-    <td> /pr/ </td>
+    <td> /pɹ/ </td>
     <td> /pl/ </td>
     <td> /pj/<sup>1</sup> </td>
   </tr>
   <tr>
     <th> /b/ </th>
     <td> – </td>
-    <td> /br/ </td>
+    <td> /bɹ/ </td>
     <td> /bl/ </td>
     <td> /bj/<sup>1</sup> </td>
   </tr>
   <tr>
     <th> /f/ </th>
     <td> – </td>
-    <td> /fr/ </td>
+    <td> /fɹ/ </td>
     <td> /fl/ </td>
     <td> /fj/<sup>1</sup> </td>
   </tr>
   <tr>
     <th> /v/ </th>
     <td> – </td>
-    <td> /vr/<sup>2</sup> </td>
+    <td> /vɹ/<sup>2</sup> </td>
     <td> /vl/<sup>2</sup> </td>
     <td> /vj/<sup>1</sup> </td>
   </tr>
   <tr>
     <th> /t/ </th>
     <td> /tw/ </td>
-    <td> /tr/<sup>3</sup> </td>
+    <td> /tɹ/<sup>3</sup> </td>
     <td> – </td>
     <td> – </td>
   </tr>
   <tr>
     <th> /d/ </th>
     <td> /dw/ </td>
-    <td> /dr/<sup>3</sup> </td>
+    <td> /dɹ/<sup>3</sup> </td>
     <td> – </td>
     <td> – </td>
   </tr>
   <tr>
     <th> /θ/ </th>
     <td> /θw/<sup>2</sup> </td>
-    <td> /θr/ </td>
+    <td> /θɹ/ </td>
     <td> – </td>
     <td> – </td>
   </tr>
@@ -125,14 +125,14 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
   <tr>
     <th> /k/ </th>
     <td> /kw/ </td>
-    <td> /kr/ </td>
+    <td> /kɹ/ </td>
     <td> /kl/ </td>
     <td> /kj/<sup>1</sup> </td>
   </tr>
   <tr>
     <th> /g/ </th>
     <td> /gw/<sup>2</sup> </td>
-    <td> /gr/ </td>
+    <td> /gɹ/ </td>
     <td> /gl/ </td>
     <td> /gw/<sup>2</sup> </td>
   </tr>
@@ -160,7 +160,7 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
   <tr>
     <th> /ʃ/ </th>
     <td> /ʃw/<sup>2</sup> </td>
-    <td> /ʃr/ </td>
+    <td> /ʃɹ/ </td>
     <td> /ʃl/<sup>2</sup> </td>
     <td> – </td>
   </tr>
@@ -202,12 +202,20 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
 </table>  
 <sup>1</sup> Only appears with vowel /u/  
 <sup>2</sup> Marginal  
-<sup>3</sup> /tr/ is realized as \[tʃr\] and /dr/ is realized as \[dʒr\]. In rook script, chr and jr are considered invalid as the sound sequences are always spelled tr and dr respectively  
+<sup>3</sup> /tɹ/ is realized as \[tʃɹ\] and /dɹ/ is realized as \[dʒɹ\]. In rook script, the sequences /tʃɹ/ and /dʒɹ/ are considered invalid as the sound sequences are always spelled tr and dr respectively  
 <sup>4</sup> This only applies to /s/ in slot 2
 
 ### Coda clusters
 
+Codas are essentially reversed from onsets. Rather than /s/ + obstruent + approximant, codas are build as approximant + semi-obstruent + obstruent + /s/, /z/, /t/, /d/.
 
+<table>
+  <tr>
+    <td></td>
+    <th> /ɹ/ </th>
+    <th> /l/ </th>
+  </tr>
+</table>
 
 ### Sonorance progression remarks
 
