@@ -144,7 +144,7 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
     <td> – </td>
   </tr>
   <tr>
-    <th> /s/<sup>4</sup> </th>
+    <th> /s/ </th>
     <td> /sw/ </td>
     <td> – </td>
     <td> /sl/ </td>
@@ -202,8 +202,7 @@ An onset has 3 slots, each of which may be empty or filled. The first slot can o
 </table>  
 <sup>1</sup> Only appears with vowel /u/  
 <sup>2</sup> Marginal  
-<sup>3</sup> /tɹ/ is realized as \[tʃɹ\] and /dɹ/ is realized as \[dʒɹ\]. In rook script, the sequences /tʃɹ/ and /dʒɹ/ are considered invalid as the sound sequences are always spelled tr and dr respectively  
-<sup>4</sup> This only applies to /s/ in slot 2
+<sup>3</sup> /tɹ/ is realized as \[tʃɹ\] and /dɹ/ is realized as \[dʒɹ\]. In rook script, the sequences /tʃɹ/ and /dʒɹ/ are considered invalid and the sound sequences are always spelled tr and dr, respectively
 
 ### Coda clusters
 
