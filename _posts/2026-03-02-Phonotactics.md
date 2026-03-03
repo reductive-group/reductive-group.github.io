@@ -233,5 +233,5 @@ As mentioned above, onsets are limited to 3 consonants and codas are limited to 
 
 ## Other invalid combinations
 
-[Syllable Overview]({% post_url 2026-02-28-Syllables %})
+[Syllable Overview]({% post_url 2026-02-28-Syllables %})  
 [Home](/)
