@@ -7,21 +7,19 @@ tags: [lesson]
 
 Under construction
 
-There are two major components of spelling in rook script. The first, and more important, is the sequence of letters. The second, more unique to rook script, is breaking words into syllables. This post overviews the considerations with some examples; more complete descriptions of the rules and principles in consideration will be covered in future posts.
+There are two major components of spelling in rook script. The second most important is breaking words into syllables.
 
-In a word in rook script, every vowel is at the center of its own syllable, and every consonant needs to be assigned to the syllable of either the preceding or following vowel. In standard romanization, *syllable boundaries* are marked with an interpunct symbol “·”. For example, the word “biome” can be broken into sounds as /baioum/, which has two vowel sounds, /ai/ and /ou/. There are no consonants between them so the only possible place the syllable boundary can go is directly between them. We have “biome\|bai·oum”.
+In a rook script, every vowel is the center of its own syllable; every consonant must be assigned to the syllable of the preceding or the following vowel by placement either before or after a *syllable boundary*. When romanized, syllable boundaries are marked with an interpunct “·”. For example, the word “biome” can be broken into sounds as /baioum/, which has two vowel sounds, /ai/ and /ou/. There are no consonants between them so the only possible place the syllable boundary can go is directly between them. Thus the rook spelling is “biome\|bai·oum”.
 
-The set of consonants in a syllable that comes before the vowel is known as the *onset*. The set of consonants that follows the vowel is the *coda*. If a consonant is to the left of a syllable boundary, then it is a coda consonant (of the preceding syllable), and to the right it is an onset consonant. The sequence of consonants in an onset or coda form a *cluster*. The vowel and coda together form the *rhyme* of a syllable.
+The set of consonants in a syllable that comes before the vowel is known as the *onset*. The set of consonants that follows the vowel is the *coda*. If a consonant is to the left of a syllable boundary, then it is a coda consonant (of the preceding syllable), and to the right it is an onset consonant. The sequence of consonants in an onset or coda form a *cluster*.
 
-There are several considerations when placing syllable boundaries:
+There are several considerations when placing syllable boundaries, which should be made in decreasing order of importance:
 1. phonotactics
 2. allophony
 3. vowel checking
 4. relative stress
 6. morphology
 7. onset maximizing
-
-These considerations should be taken into account in order, though typically multiple considerations will point in the same direction.
 
 ## Phonotactic Constraints
 
