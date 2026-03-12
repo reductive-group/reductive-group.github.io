@@ -28,13 +28,14 @@ Some more examples of syllable boundaries determined by this rule alone:
 | virus | vai·ris |
 | backyard | bak·yord |
 
-## Different sound realizations
+## Differing sound realizations
 
 The difference between onset and coda can sometimes affect the way a consonant or nearby vowel is pronounced. This is most noticeable with the letter t. At the start of words it tends to be pronounced strongly at the starts of words and weakly at the ends of them (meaning flapped, unreleased, dropped entirely, etc.). This can also be reflected within individual syllables: if t is the first letter of an onset it is usually pronounced strong, and if it’s in a coda it is pronounced weak. This way we see a difference between the t of “between\|bii·twiin” and the t of “beaten\|biit·ən”.
 
 Several consonants also have effects on the vowels before them when they appear in the coda, especially r and l. And sometimes pairs of consonants have distinct pronunciations together, especially tr and dr.
 
-Here are some examples of words where 
+Here are some examples of words where placement in onset and coda reflects different sounds made by at least one of the letters.
+
 | Latin | rook |
 | --- | --- |
 | butter | bət·ər |
@@ -54,9 +55,9 @@ Here are some examples of words where
 
 ## Short vowels need codas
 
-Really this is the same principle as the first: it’s awkward to pronounce a short vowel the at the end of a word, and in rook script that is reflected on the syllable level. Officially, however, it’s less important to avoid ending a syllable on a short vowel than to avoid awkward consonant clusters, and the rule has more exceptions.
+Really this is the same principle as the first: it’s awkward to pronounce a short vowel the at the end of a word, and in rook script that is reflected on the syllable level. Officially, however, it’s less important to avoid ending a syllable on a short vowel than to avoid awkward consonant clusters, so the vowel rule has more exceptions.
 
-The list of vowels that always need codas is e, a, and u. The letters that can represent the weak vowel, i and ə, do not need codas in unstressed syllables. In stressed syllables, however, they do need a coda. Note that o does not need a coda, even though it is often referred to as a short vowel.
+The vowels that always need codas are e, a, and u. In stressed syllables, the letters i and ə do as well, though in unstressed syllables they represent the weak vowel which does not need a coda. Note that o does not need a coda, even though it is often referred to as a short vowel.
 
 Some examples of syllable boundaries determined by vowel checking:
 
