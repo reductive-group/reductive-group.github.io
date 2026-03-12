@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Syllable Boundaries Overview"
+title: "Syllable Boundaries"
 author: Reductive Group
 tags: [lesson]
 ---
 
-There are two major components of spelling in rook script. The second most important is breaking words into syllables, done by placing *syllable boundaries*. Every syllable has a vowel, so syllable boundaries determine which consonants correspond to which vowels. Syllable boundaries are written with · in standard romanization. For example, the word “biome\|bai·oum”. The set of consonants in a syllable that comes before the vowel is known as the *onset*. The set of consonants that follows the vowel is the *coda*. If a consonant is to the left of a syllable boundary, then it is a coda consonant (of the preceding syllable), and to the right it is an onset consonant.
+There are two major components of spelling in rook script. The second most important is breaking words into syllables, done by placing *syllable boundaries*. Every syllable has a vowel, so syllable boundaries determine which consonants correspond to which vowels. Syllable boundaries are written with · in standard romanization. For example, the word “biome\|bai·oum” has a syllable boundary the only place it could possibly go. The set of consonants in a syllable that come before the vowel is known as the *onset*. The set of consonants that follow the vowel is the *coda*. If a consonant is to the left of a syllable boundary, then it is a coda consonant (of the preceding syllable), and to the right it is an onset consonant.
 
 This page briefly overviews the factors to consider when placing syllable boundaries in rook script.
 
@@ -17,7 +17,7 @@ This rule includes avoiding clusters that are awkward or unwieldy, not just impo
 
 Some more examples of syllable boundaries determined by this rule alone:
 
-| Latin | rook |
+| Latin | rook (romanized) |
 | --- | --- |
 | exchange | eks·cheinj |
 | abscess | ab·ses |
@@ -36,7 +36,7 @@ Several consonants also have effects on the vowels before them when they appear 
 
 Here are some examples of words where placement in onset and coda reflects different sounds made by at least one of the letters.
 
-| Latin | rook |
+| Latin | rook (romanized ) |
 | --- | --- |
 | butter | bət·ər |
 | deter | dii·tər |
@@ -61,7 +61,7 @@ The vowels that always need codas are e, a, and u. In stressed syllables, the le
 
 Some examples of syllable boundaries determined by vowel checking:
 
-| Latin | rook |
+| Latin | rook (romanized) |
 | --- | --- |
 | ledger | lej·ər |
 | savage | sav·ij |
@@ -70,7 +70,7 @@ Some examples of syllable boundaries determined by vowel checking:
 
 And some exceptions:
 
-| Latin | rook |
+| Latin | rook (romanized) |
 | --- | --- |
 | bittern | bi·tərn |
 | satire | sa·tai·ər |
@@ -81,10 +81,11 @@ And some exceptions:
 
 In rook script, stressed syllables attract consonants and unstressed syllables repel them. This often aligns with the rules above, but not always. Let’s see some examples.
 
-| Latin | rook |
+| Latin | rook (romanized) |
 | --- | --- |
 | basic | beis·ik |
 | under | ənd·ər |
+| pastry | peis·trii |
 | active | akt·iv |
 | survey (noun) | sərv·ei |
 | become | bii·kəm |
@@ -95,9 +96,9 @@ In rook script, stressed syllables attract consonants and unstressed syllables r
 
 ## Morphology
 
-This is the stickiest one. The problem is that in English, it’s usually difficult to neatly break a word into morphemes. If it were easier, rook script would have a much simpler system for breaking words into syllables. As it is, the rules above largely attempt to settle most morphology cases by other means.
+This is the trickiest consideration. The problem is that in English, it’s difficult to neatly break a word into morphemes. If it were easier, rook script would have a much simpler system for syllable boundaries with morphology as a primary consideration. As it is, the rules above largely attempt to settle most morphology cases by other means.
 
-| Latin | rook |
+| Latin | rook (romanized) |
 | --- | --- |
 | backstroke | bak·strouk |
 | aging | eij·iing |
@@ -109,7 +110,7 @@ This is the stickiest one. The problem is that in English, it’s usually diffic
 
 If the above considerations do not determine a syllable boundary, it falls to a linguistic tradition known as the principle of maximum onset. Most of the situations where this applies are between fully unstressed syllables, but there are also proper nouns and some long clusters between pairs of stressed syllables where it is relevant.
 
-| Latin | rook |
+| Latin | rook (romanized) |
 | --- | --- |
 | terrible | teir·ə·bəl |
 | philosophy | fi·los·ə·fii |
@@ -117,10 +118,11 @@ If the above considerations do not determine a syllable boundary, it falls to a 
 
 ## Tradition
 
-The rook script spelling of a word aims to be a reasonable phonemic transcription, rather than a pure phonetic transcription. Sometimes that means placing boundaries in places that don’t correspond to the rules above for reasons that are obvious to someone familiar with English. This often results in using a non-weak vowel where in practice the vowel is usually reduced; in terms of placing syllable boundaries it usually just means keeping /ks/ in a coda.
+The rook script spelling of a word aims to be a reasonable phonemic transcription, rather than a pure phonetic transcription. This often results in using a non-weak vowel where in practice the vowel is usually reduced. In terms of placing syllable boundaries, it usually just means keeping /ks/ in a coda instead of placing · between k and s.
 
-| Latin | rook |
+| Latin | rook (romanized) |
 | --- | --- |
+| exact | eks·akt |
 | Quixotic | kwiks·ot·ik |
 
 [Home](/)
