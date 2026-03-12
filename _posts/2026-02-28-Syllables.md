@@ -5,70 +5,121 @@ author: Reductive Group
 tags: [lesson]
 ---
 
-Under construction
+There are two major components of spelling in rook script. The second most important is breaking words into syllables, done by placing *syllable boundaries*. Every syllable has a vowel, so syllable boundaries determine which consonants correspond to which vowels. Syllable boundaries are written with · in standard romanization. For example, the word “biome\|bai·oum”. The set of consonants in a syllable that comes before the vowel is known as the *onset*. The set of consonants that follows the vowel is the *coda*. If a consonant is to the left of a syllable boundary, then it is a coda consonant (of the preceding syllable), and to the right it is an onset consonant.
 
-There are two major components of spelling in rook script. The second most important is breaking words into syllables.
+This page briefly overviews the factors to consider when placing syllable boundaries in rook script.
 
-In a rook script, every vowel is the center of its own syllable; every consonant must be assigned to the syllable of the preceding or the following vowel by placement either before or after a *syllable boundary*. When romanized, syllable boundaries are marked with an interpunct “·”. For example, the word “biome” can be broken into sounds as /baioum/, which has two vowel sounds, /ai/ and /ou/. There are no consonants between them so the only possible place the syllable boundary can go is directly between them. Thus the rook spelling is “biome\|bai·oum”.
+## Every syllable should be pronounceable
 
-The set of consonants in a syllable that comes before the vowel is known as the *onset*. The set of consonants that follows the vowel is the *coda*. If a consonant is to the left of a syllable boundary, then it is a coda consonant (of the preceding syllable), and to the right it is an onset consonant. The sequence of consonants in an onset or coda form a *cluster*.
+The first rule of syllable boundaries is that you should not place letters together in a way they can’t be pronounced. For example the word “sigma” has two syllables and needs a boundary between the i and the ə. The only place it can go is between g and m, otherwise one or the other syllable has a cluster /gm/, which is unpronounceable both in onset and coda; thus we have “sigma\|sig·mə”. 
 
-There are several considerations when placing syllable boundaries, which should be made in decreasing order of importance:
-1. phonotactics
-2. allophony
-3. vowel checking
-4. relative stress
-6. morphology
-7. onset maximizing
+This rule includes avoiding clusters that are awkward or unwieldy, not just impossible. For example, the name “Magdalene\|mag·də·lin” avoids placing gd together in the coda for comfort, although words like “flagged\|flagd” show it is perfectly pronounceable.
 
-## Phonotactic Constraints
+Some more examples of syllable boundaries determined by this rule alone:
 
-*Phonotactic constraints* are rules describing which sounds or sound combinations are difficult to pronounce. They are specific to languages or even indiviual speakers, and come in a range of severity from impossible to slightly awkward. For finding syllable boundaries, the relevant phonotactics are constraints agains sequences of letters. When dividing a word into syllables, every syllable should be reasonably comfortable to pronounce as if it were a standalone word. A syllable that does not violate phonotactic constraints is said to be phonotactically *compliant*. Some correctly spelled words have syllables that are not completely compliant, but the most important rule in assigning syllable boundaries is to not violate unnecessary constraints.
+| Latin | rook |
+| --- | --- |
+| exchange | eks·cheinj |
+| abcess | ab·ses |
+| rashly | rash·lii |
+| cohort | kou·hourt |
+| singing | siing·iing |
+| boiler | boi·lər |
+| virus | vai·ris |
+| backyard | bak·yord |
 
-In rook script, there are a few types of relevant phonotactic constraints: pairs of consononants that are not allowed in onsets or codas, consonants that only ever appear in the onset or in the coda, coda consonants that restrict the vowel, and limitations of vowels appearing after y.
+## Different sound realizations
 
-Consider the word “sigma”. It’s pronounced /sɪgmə/, with two syllables. The three possible positions for the syllable break are before the g, between the g and m, or after the m. Both “gmə” and “sigm” are difficult to pronounce, implying phonotactic constraints against gm both in onset and coda. Placing the syllable boundary between g and m makes both syllables are pronounceable: “sigma\|sig·mə”.
+The difference between onset and coda can sometimes affect the way a consonant or nearby vowel is pronounced. This is most noticeable with the letter t. At the start of words it tends to be pronounced strongly at the starts of words and weakly at the ends of them (meaning flapped, unreleased, dropped entirely, etc.). This can also be reflected within individual syllables: if t is the first letter of an onset it is usually pronounced strong, and if it’s in a coda it is pronounced weak. This way we see a difference between the t of “between\|bii·twiin” and the t of “beaten\|biit·ən”.
 
-As another example, consider the name “Magdalene”, pronounced /mægdələn/. The pair gd is not allowed in either onset or coda, so the syllable boundary goes between g and d and the rook spelling is “Magdalene\|mag·də·lən”. Note that the constraint that gd is not allowed in coda is far from obligatory—many English words, like “flagged\|flagd” clearly must have gd in coda. However, this combination is typically restricted to the past tense word ending, rather than the middle of words. In any case, it is easy to avoid having gd together in an onset in the word “Magdalene”, so for phonotactic compliance the d must be placed in the onset of the second syllable.
+Several consonants also have effects on the vowels before them when they appear in the coda, especially r and l. And sometimes pairs of consonants have distinct pronunciations together, especially tr and dr.
 
-The letters h, w, and y do not appear in codas and the letter ng does not appear in onset. The syllable boundaries of the words “cohort\|kou·hourt” and “singing\|siing·iing” can be determined by compliance to this constraint. Note there are exceptions in all four cases, including the names “Mahmoud\|moh·muud” (h in coda is preferable to hm in onset) and “Ngô\|ngou” and the interjections “ew\|iiw” and “aww\|ow”.
+Here are some examples of words where 
+| Latin | rook |
+| --- | --- |
+| butter | bət·ər |
+| deter | dii·tər |
+| humanity | hyuu·man·it·ii |
+| manatee | man·ə·tii |
+| satin | sat·in |
+| sateen | sa·tiin |
+| pearl | pər·əl |
+| parole | pə·roul |
+| barrel | beir·əl |
+| payroll | pei·roul |
+| tailor | teil·ər |
+| Taylor | tei·lər |
+| bedraggle | bii·drag·əl |
+| bedrock | bed·rok |
 
-When appearing in coda, the letters r and l are restrictive about which vowels can appear before them. (The letter ng is too, but it can only appear in coda so it is not relevant for placing syllable boundaries.) Only the vowels ii, ei, o, ou, u, and ə may appear before r, and any vowel may appear before l except for ai, oi, and au. This applies to the words “boiler\|boi·lər” and “virus\|vai·ris”.
+## Short vowels need codas
 
-Finally, when y appears after another consonant in onset, it is very limited in what vowels may appear after. In rook script, the sequence consonant-y-vowel is only compliant if the vowel is uu, as in “review\|rii·vjuu”, or ə, as in “secure\|sə·kyər”. This constraint can be applied to the word “backyard\|bak·yord” and the name “Goodyear\|gud·yiir”.
+Really this is the same principle as the first: it’s awkward to pronounce a short vowel the at the end of a word, and in rook script that is reflected on the syllable level. Officially, however, it’s less important to avoid ending a syllable on a short vowel than to avoid awkward consonant clusters, and the rule has more exceptions.
 
-## Allophony
+The list of vowels that always need codas is e, a, and u. The letters that can represent the weak vowel, i and ə, do not need codas in unstressed syllables. In stressed syllables, however, they do need a coda. Note that o does not need a coda, even though it is often referred to as a short vowel.
 
-Each rook letter corresponds to a single sound of English as it exists in the mind of a speaker. This abstract kind of sound is called a *phoneme*, a sound written with slashes like /t/. In practice, a phoneme might be pronounced in different ways at different times; these distinct pronunciations are called *allophones*, written in square brackets like \[tʰ\] (aspirated /t/, heard at the start of a word) or \[t̚\] (unreleased t, heard at the end of a word). It turns out that in General American English, there are several cases of allophones affected by syllable boundaries, so rook script takes allophony as the second most important consideration for placing syllable boundaries.
+Some examples of syllable boundaries determined by vowel checking:
 
-There are three main kinds of allophones to consider for syllable boundaries. First are the allophones of /t/, vary widely. The second is the effect of coda consonants on the preceding vowel. The final only applies to the pairs /tr/ and /dr/.
+| Latin | rook |
+| --- | --- |
+| ledger | lej·ər |
+| savage | sav·ij |
+| pushy | push·ii |
+| spatula | spat·chuu·lə |
 
-The phoneme /t/ has several distinct allophones. The strongest is aspirated t \[tʰ\], which appears at the start of the word “tick\|tik” and precedes stressed vowels. Where phonotactically possible, aspirated t should only appear in onsets, as in the word “attack\|ə·tak”. The next strongest is unmarked t, \[t\], which appears in many places like the word “stop\|stop”. Unmarked t frequently follows a consonant like s, and may go in either onset or coda but should be paired with the preceding consonant if present, as in “restore\|rii·stour“ and “duster\|dəst·ər”. The remaining allophones are all weak and should always correspond to t in coda. A few examples include unreleased t \[t̚\], heard as the last sound of a word as in “shoot\|shuut”; flapped t \[ɾ\], heard between vowels when the following vowel is unstressed, as in “butter\|bət·ər”; glottal stop \[ʔ\], heard before an unstressed syllable with an n in the coda, as in “button\|bət·ən” and “mountain\|maunt·ən”; and absent t typically found when following n and before an unstressed syllable (technically the n is flapped, i.e. /nt/ is pronounced as a single sound \[ɾ̃\]), as in “center\|sent·ər” and “Atlanta\|ət·lant·ə”.
+And some exceptions:
 
-vowel - sonorant
-
-tr and dr
-
-## Vowel checking
-
-Rook script has 6 checked vowels and 8 unchecked vowels. (The unstressed /ə/ is unchecked while the stressed /ʌ/ is checked, though both are represented by the letter ə.)
-
-If it does not violate an above rule, checked vowels must have codas. There are exceptions. Look at the words “valid\|val·id” and “satire\|sa·tai·ər”. Also “yeah\|ya” and “uh\|ə”.
-
-Weird thing with “spatula\|spat·chuu·lə”, “Patrick\|pat·trik”, and “address (n.)\|ad·dres”
+| Latin | rook |
+| --- | --- |
+| bittern | bi·tərn |
+| satire | sa·tai·ər |
+| metallic | me·tal·ik |
+| yeah | ya |
 
 ## Relative stress
 
-Tough to explain. Also I don’t have good examples ready that aren’t actually determined by allophony. I guess look at clusters like “under”.
+In rook script, stressed syllables attract consonants and unstressed syllables repel them. This often aligns with the rules above, but not always. Let’s see some examples.
 
-This is determinate when a stressed syllable is adjacent to an unstressed syllable, but less so between two similarly-stressed or unstressed syllables.
+| Latin | rook |
+| --- | --- |
+| basic | beis·ik |
+| under | ənd·ər |
+| active | akt·iv |
+| survey (noun) | sərv·ei |
+| become | bii·kəm |
+| indeed | in·diid |
+| restrict | rii·strikt |
+| activity | ak·tiv·it·ii |
+| survey (verb) | sər·vei |
 
 ## Morphology
 
-Words break into morphemes. If it‘s clear where morpheme boundaries are, it’s better for them to align with syllable boundaries. This is a tie-breaking consideration.
+This is the stickiest one. The problem is that in English, it’s usually difficult to neatly break a word into morphemes. If it were easier, rook script would have a much simpler system for breaking words into syllables. As it is, the rules above largely attempt to settle most morphology cases by other means.
 
-## Onset maximaization
+| Latin | rook |
+| --- | --- |
+| backstroke | bak·strouk |
+| aging | eij·iing |
+| logical | loj·ik·əl |
+| summation | səm·ei·shən |
+| maybe | mei·bii |
 
-This mostly ends up affecting multisyllabic suffixes like “-ify\|-ə·fai” and proper nouns.
+## Onset maximization
+
+If the above considerations do not determine a syllable boundary, it falls to a linguistic tradition known as the principle of maximum onset. Most of the situations where this applies are between fully unstressed syllables, but there are also proper nouns and some long clusters between pairs of stressed syllables where it is relevant.
+
+| Latin | rook |
+| --- | --- |
+| terrible | teir·ə·bəl |
+| philosophy | fi·los·ə·fii |
+| company | kəmp·ə·nii |
+
+## Tradition
+
+The rook script spelling of a word aims to be a reasonable phonemic transcription, rather than a pure phonetic transcription. Sometimes that means placing boundaries in places that don’t correspond to the rules above for reasons that are obvious to someone familiar with English. This often results in using a non-weak vowel where in practice the vowel is usually reduced; in terms of placing syllable boundaries it usually just means keeping /ks/ in a coda.
+
+| Latin | rook |
+| --- | --- |
+| Quixotic | kwiks·ot·ik |
 
 [Home](/)
