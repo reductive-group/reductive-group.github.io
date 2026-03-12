@@ -13,14 +13,14 @@ This page briefly overviews the factors to consider when placing syllable bounda
 
 The first rule of syllable boundaries is that you should not place letters together in a way they can’t be pronounced. For example the word “sigma” has two syllables and needs a boundary between the i and the ə. The only place it can go is between g and m, otherwise one or the other syllable has a cluster /gm/, which is unpronounceable both in onset and coda; thus we have “sigma\|sig·mə”. 
 
-This rule includes avoiding clusters that are awkward or unwieldy, not just impossible. For example, the name “Magdalene\|mag·də·lin” avoids placing gd together in the coda for comfort, although words like “flagged\|flagd” show it is perfectly pronounceable.
+This rule includes avoiding clusters that are awkward or unwieldy, not just impossible. For example, the name “Magdalene\|mag·də·lən” avoids placing gd together in the coda for comfort, although words like “flagged\|flagd” show it is perfectly pronounceable.
 
 Some more examples of syllable boundaries determined by this rule alone:
 
 | Latin | rook |
 | --- | --- |
 | exchange | eks·cheinj |
-| abcess | ab·ses |
+| abscess | ab·ses |
 | rashly | rash·lii |
 | cohort | kou·hourt |
 | singing | siing·iing |
