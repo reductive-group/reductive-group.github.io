@@ -116,6 +116,8 @@ If the above considerations do not determine a syllable boundary, it falls to a 
 | philosophy | fi·los·ə·fii |
 | company | kəmp·ə·nii |
 
+<!--
+
 ## Tradition
 
 The rook script spelling of a word aims to be a reasonable phonemic transcription, rather than a pure phonetic transcription. This often results in using a non-weak vowel where in practice the vowel is usually reduced. In terms of placing syllable boundaries, it usually just means keeping /ks/ in a coda instead of placing · between k and s.
@@ -124,5 +126,7 @@ The rook script spelling of a word aims to be a reasonable phonemic transcriptio
 | --- | --- |
 | exact | eks·akt |
 | Quixotic | kwiks·ot·ik |
+
+-->
 
 [Home](/)
