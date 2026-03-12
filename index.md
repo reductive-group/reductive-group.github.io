@@ -47,4 +47,4 @@ If you’re interested in writing in rook script, it is recommended to start by 
 
 Read about the [alphabet]({% post_url 2026-02-24-Alphabet %})  
 Read about the [alphabet tables]({% post_url 2026-02-24-Tables %})  
-<!--Read about [syllable boundaries]({% post_url 2026-02-28-Syllables %})-->
+Read about [syllable boundaries]({% post_url 2026-02-28-Syllables %})
