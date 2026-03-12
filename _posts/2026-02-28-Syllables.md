@@ -72,7 +72,7 @@ And some exceptions:
 
 | Latin | rook (romanized) |
 | --- | --- |
-| bittern | bi·tərn |
+| litigious | li·tij·is |
 | satire | sa·tai·ər |
 | metallic | me·tal·ik |
 | yeah | ya |
