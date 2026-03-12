@@ -36,7 +36,7 @@ Several consonants also have effects on the vowels before them when they appear 
 
 Here are some examples of words where placement in onset and coda reflects different sounds made by at least one of the letters.
 
-| Latin | rook (romanized ) |
+| Latin | rook (romanized) |
 | --- | --- |
 | butter | bət·ər |
 | deter | dii·tər |
