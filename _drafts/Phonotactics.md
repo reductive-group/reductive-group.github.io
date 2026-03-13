@@ -3,6 +3,7 @@ layout: post
 title: "Syllable Boundaries 1: Phonotactic Constraints"
 author: Reductive Group
 tags: [lesson]
+published: false
 ---
 
 This post focuses on validity. A syllable is *valid* if it can be pronounced on its own. A rule that would prevent a sequence of sounds from being pronounceable as a single syllable is a *phonotactic constraint*. The relevant phonotactic constraints for rook script are those of General American English; speakers of other languages and dialects face different phonotactic constraints. For instance, Russian speakers have no trouble saying “где” (pronounced \[gdʲe\]) but often do have trouble voicing the /d/ at the end of the English word “bad”.
