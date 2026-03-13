@@ -47,6 +47,6 @@ Examples of the words that are sometimes pronounced with a weak vowel but spelle
 | Europe | yuur·**ə**p |
 | Nashville | nash·v**i**l |
 
-Note that in some cases the correct spelling of the weak vowel depends on the placement of a syllable boundary. When deciding how to spell a word with a weak vowel, first place the syllable boundary to decide whether the weak vowel is represented with ə or i, and then decide if the vowel should actually be a weak vowel.
+Note that in some cases the correct spelling of the weak vowel depends on the placement of a [syllable boundary]({% post_url 2026-02-28-Syllables %}). When deciding how to spell a word with a weak vowel, first place the syllable boundary to decide whether the weak vowel is represented with ə or i, and then decide if the vowel should actually be a weak vowel or something else.
 
 [Home](/)
