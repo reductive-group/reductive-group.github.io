@@ -19,7 +19,7 @@ Examples of the weak vowel spelled normally:
 | --- | --- |
 | assert | **ə**·sərt |
 | bearable | beir·**ə**·b**ə**l |
-| dogma | dog·m**ə** |
+| dogma | daag·m**ə** |
 | manatee | man·**ə**·tii |
 | gopher | gouf·**ə**r |
 | payment | pei·m**ə**nt |
@@ -30,7 +30,7 @@ Examples of the weak vowel spelled normally:
 | magically | maj·**i**k·lii |
 | levity | lev·**i**t·ii |
 | bonus | boun·**i**s |
-| honest | on·**i**st |
+| honest | aan·**i**st |
 
 Examples of the words that are sometimes pronounced with a weak vowel but spelled otherwise:
 
@@ -38,7 +38,7 @@ Examples of the words that are sometimes pronounced with a weak vowel but spelle
 | --- | --- |
 | design | d**ii**·zain |
 | elect | **ii**·lekt |
-| philosophy | f**i**·los·ə·fii |
+| philosophy | f**i**·laas·ə·fii |
 | escape | **e**s·keip |
 | absorb | **ə**b·zourb |
 | advance | **a**d·vans |
