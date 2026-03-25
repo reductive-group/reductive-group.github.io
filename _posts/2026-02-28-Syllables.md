@@ -17,16 +17,16 @@ This rule includes avoiding clusters that are awkward or unwieldy, not just impo
 
 Some more examples of syllable boundaries determined by this rule alone:
 
-| Latin | rook (romanized) |
-| --- | --- |
-| exchange | eks·cheinj |
-| abscess | ab·ses |
-| rashly | rash·lii |
-| cohort | kou·hourt |
-| singing | sing·ing |
-| boiler | boi·lər |
-| virus | vai·ris |
-| backyard | bak·yaard |
+| Latin | rook |romanization |
+| --- | --- | -- |
+| exchange | ![exchange](https://i.postimg.cc/q7b8n0dT/2026_03_13_ekscheinj.jpg) | eks·cheinj |
+| abscess |  | ab·ses |
+| rashly |  | rash·lii |
+| cohort |  | kou·hourt |
+| singing |  | sing·ing |
+| boiler |  | boi·lər |
+| virus |  | vai·ris |
+| backyard |  | bak·yaard |
 
 ## Differing sound realizations
 
