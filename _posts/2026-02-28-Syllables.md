@@ -26,7 +26,7 @@ Some more examples of syllable boundaries determined by this rule alone:
 | singing | sing·ing |
 | boiler | boi·lər |
 | virus | vai·ris |
-| backyard | bak·yord |
+| backyard | bak·yaard |
 
 ## Differing sound realizations
 
@@ -51,7 +51,7 @@ Here are some examples of words where placement in onset and coda reflects diffe
 | tailor | teil·ər |
 | Taylor | tei·lər |
 | bedraggle | bii·drag·əl |
-| bedrock | bed·rok |
+| bedrock | bed·raak |
 
 ## Short vowels need codas
 
@@ -102,7 +102,7 @@ This is the trickiest consideration. The problem is that in English, it’s diff
 | --- | --- |
 | backstroke | bak·strouk |
 | aging | eij·ing |
-| logical | loj·ik·əl |
+| logical | laaj·ik·əl |
 | summation | səm·ei·shən |
 | maybe | mei·bii |
 
@@ -125,7 +125,7 @@ The rook script spelling of a word aims to be a reasonable phonemic transcriptio
 | Latin | rook (romanized) |
 | --- | --- |
 | exact | eks·akt |
-| Quixotic | kwiks·ot·ik |
+| Mexico | meks·ə·kou |
 
 -->
 
