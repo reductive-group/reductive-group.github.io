@@ -20,13 +20,13 @@ Some more examples of syllable boundaries determined by this rule alone:
 | Latin | rook |romanization |
 | --- | --- | -- |
 | exchange | ![exchange](https://i.postimg.cc/q7b8n0dT/2026_03_13_ekscheinj.jpg) | eks·cheinj |
-| abscess |  | ab·ses |
-| rashly |  | rash·lii |
-| cohort |  | kou·hourt |
-| singing |  | sing·ing |
-| boiler |  | boi·lər |
-| virus |  | vai·ris |
-| backyard |  | bak·yaard |
+| abscess | ![abscess](https://i.postimg.cc/7LY3fhds/2026_03_13_abses.jpg) | ab·ses |
+| rashly | ![rashly](https://i.postimg.cc/4dYpQMJt/2026_03_13_rashlii.jpg) | rash·lii |
+| cohort | ![cohort](https://i.postimg.cc/R0scf9zZ/2026_03_13_kouhourt.jpg) | kou·hourt |
+| singing | - | sing·ing |
+| boiler | ![boiler](https://i.postimg.cc/LsCzfRFr/2026_03_13_boil_r.jpg) | boi·lər |
+| virus | ![virus](https://i.postimg.cc/HxFXZ2xv/2026_03_13_vairis.jpg) | vai·ris |
+| backyard | ![backyard](https://i.postimg.cc/d0H8dvc5/2026_03_13_bakyord.jpg) | bak·yaard |
 
 ## Differing sound realizations
 
