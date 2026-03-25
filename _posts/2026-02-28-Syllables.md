@@ -101,11 +101,11 @@ This is the trickiest consideration. The problem is that in English, it’s diff
 | Latin | romanized rook | rook script |
 | --- | --- | --- |
 | backstroke | bak·strouk | ![backstroke](https://i.postimg.cc/TP7rmGvC/2026_03_13_bakstrouk.jpg) |
-| aging | eij·ing | image missing |
+| aging | eij·ing | (image missing) |
 | logical | laaj·ik·əl | ![logical](https://i.postimg.cc/gJx3H5YY/2026_03_13_lojik_l.jpg) |
 | summation | səm·ei·shən | ![summation](https://i.postimg.cc/LXJj37HL/2026_03_13_s_meish_n.jpg) |
 | maybe | mei·bii | ![maybe](https://i.postimg.cc/Hxrb9Kpd/2026_03_13_meibii.jpg) |
-| application | ap·lik·ei·shən | image missing |
+| application | ap·lik·ei·shən | (image missing) |
 
 ## Onset maximization
 
