@@ -61,21 +61,21 @@ The vowels that need codas are i, e, a, and u. In stressed syllables, the letter
 
 Some examples of syllable boundaries determined by vowel checking:
 
-| Latin | rook (romanized) |
-| --- | --- |
-| ledger | lej·ər |
-| savage | sav·ij |
-| pushy | push·ii |
-| spatula | spat·chuu·lə |
+| Latin | romanized rook | rook script |
+| --- | --- | --- |
+| ledger | lej·ər | ![ledger](https://i.postimg.cc/3wSgp7Hw/2026_03_13_lej_r.jpg) |
+| savage | sav·ij | ![savage](https://i.postimg.cc/nzNBRkzq/2026_03_13_savij.jpg) |
+| pushy | push·ii | ![pushy](https://i.postimg.cc/Hxrb9KpJ/2026_03_13_pushii.jpg) |
+| spatula | spat·chuu·lə | ![spatula](https://i.postimg.cc/cHPw9mHM/2026_03_13_spatchuul.jpg) |
 
 And some exceptions:
 
-| Latin | rook (romanized) |
-| --- | --- |
-| litigious | li·tij·is |
-| satire | sa·tai·ər |
-| metallic | me·tal·ik |
-| yeah | ya |
+| Latin | romanized rook | rook script |
+| --- | --- | --- |
+| litigious | li·tij·is | ![litigious](https://i.postimg.cc/1t8DrT9P/2026_03_13_litijis.jpg) |
+| satire | sa·tai·ər | ![satire](https://i.postimg.cc/sXM548VY/2026_03_13_satai_r.jpg) |
+| metallic | me·tal·ik | ![metallic](https://i.postimg.cc/mDP7yqbL/2026_03_13_metalik.jpg) |
+| yeah | ya | ![yeah](https://i.postimg.cc/qRWybLRm/2026_03_13_ya.jpg) |
 
 ## Relative stress
 
