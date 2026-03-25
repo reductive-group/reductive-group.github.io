@@ -23,7 +23,7 @@ Some more examples of syllable boundaries determined by this rule alone:
 | abscess | ab·ses |
 | rashly | rash·lii |
 | cohort | kou·hourt |
-| singing | siing·iing |
+| singing | sing·ing |
 | boiler | boi·lər |
 | virus | vai·ris |
 | backyard | bak·yord |
@@ -101,7 +101,7 @@ This is the trickiest consideration. The problem is that in English, it’s diff
 | Latin | rook (romanized) |
 | --- | --- |
 | backstroke | bak·strouk |
-| aging | eij·iing |
+| aging | eij·ing |
 | logical | loj·ik·əl |
 | summation | səm·ei·shən |
 | maybe | mei·bii |
