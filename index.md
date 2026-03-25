@@ -14,7 +14,7 @@ Rook script is an alternative writing system for English. There are 37 letters i
       {% include image.html src="https://i.postimg.cc/FHTSZhQp/2026_02_26_rook_consonants.jpg" caption="Rook consonants" alt="Rook consonants" %}
     </td>
     <td>
-      {% include image.html src="https://i.postimg.cc/Z5wNcJhx/2026_02_26_rook_vowels.jpg" caption="Rook vowels" alt="Rook vowels" %}
+      {% include image.html src="https://i.postimg.cc/23Ryv95J/2026_03_13_rook_vowels.jpg" caption="Rook vowels" alt="Rook vowels" %}
     </td>
   </tr>
 </table>
@@ -24,12 +24,22 @@ In rook script, every word is broken up into syllables, and each syllable has th
 <table class="photo-table">
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/d3CPWYx9/2025_11_06_syllable_structure.jpg" caption="Structure of a rook syllable" alt="Rook syllable" %}
+      {% include image.html src="https://i.postimg.cc/d3CPWYx9/2025_11_06_syllable_structure.jpg" caption="One possible structure of a rook syllable" alt="Rook syllable" %}
     </td>
     <td>
-      {% include image.html src="https://i.postimg.cc/NjdX4Qwx/2026_02_26_strength.jpg" caption="Example of a rook syllable using the word &ldquo;strength&rdquo;" alt="Rook syllable strength" %}
+      {% include image.html src="https://i.postimg.cc/SjFR81Kv/2026_03_13_strobes_syllable.jpg" caption="Example of a rook syllable using the word &ldquo;strobes&rdquo;" alt="Rook syllable strobes" %}
     </td>
   </tr>
+<!--
+  <tr>
+    <td>
+      {% include image.html src="https://i.postimg.cc/7b8h7tLR/2026_03_13_syllable_structure.jpg" caption="One possible structure of a rook syllable" alt="Rook syllable" %}
+    </td>
+    <td>
+      {% include image.html src="https://i.postimg.cc/SjFR81Kv/2026_03_13_strobes_syllable.jpg" caption="Example of a rook syllable using the word &ldquo;drink&rdquo;" alt="Rook syllable drink" %}
+    </td>
+  </tr>
+-->
 </table>
 
 <table>
