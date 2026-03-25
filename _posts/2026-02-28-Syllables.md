@@ -42,7 +42,7 @@ Here are some examples of words where placement in onset and coda reflects diffe
 | deter | dii·tər |
 | humanity | hyuu·man·it·ii |
 | manatee | man·ə·tii |
-| satin | sat·in |
+| satin | sat·ən |
 | sateen | sa·tiin |
 | pearl | pər·əl |
 | parole | pə·roul |
