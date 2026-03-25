@@ -96,25 +96,26 @@ In rook script, stressed syllables attract consonants and unstressed syllables r
 
 ## Morphology
 
-This is the trickiest consideration. The problem is that in English, it’s difficult to neatly break a word into morphemes. If it were easier, rook script would have a much simpler system for syllable boundaries with morphology as a primary consideration. As it is, the rules above largely attempt to settle most morphology cases by other means.
+This is the trickiest consideration. The problem is that in English, it’s difficult to neatly break a word into morphemes. If it were easier, rook script would have a much simpler system for syllable boundaries with morphology as a primary consideration. As it is, the rules above largely attempt to settle most morphology cases by other means. Often, morphology helps when a syllable boundary is underdetermined by considerations above. Sometimes, the syllable boundary corresponding most closely with morphology conflicts with a boundary determined by other means; in these cases rook script attempts to balance the considerations and pick the most reasonable syllable boundary.
 
-| Latin | rook (romanized) |
-| --- | --- |
-| backstroke | bak·strouk |
-| aging | eij·ing |
-| logical | laaj·ik·əl |
-| summation | səm·ei·shən |
-| maybe | mei·bii |
+| Latin | romanized rook | rook script |
+| --- | --- | --- |
+| backstroke | bak·strouk | ![backstroke](https://i.postimg.cc/TP7rmGvC/2026_03_13_bakstrouk.jpg) |
+| aging | eij·ing | image missing |
+| logical | laaj·ik·əl | ![logical](https://i.postimg.cc/gJx3H5YY/2026_03_13_lojik_l.jpg) |
+| summation | səm·ei·shən | ![summation](https://i.postimg.cc/LXJj37HL/2026_03_13_s_meish_n.jpg) |
+| maybe | mei·bii | ![maybe](https://i.postimg.cc/Hxrb9Kpd/2026_03_13_meibii.jpg) |
+| application | ap·lik·ei·shən | image missing |
 
 ## Onset maximization
 
 If the above considerations do not determine a syllable boundary, it falls to a linguistic tradition known as the principle of maximum onset. Most of the situations where this applies are between fully unstressed syllables, but there are also proper nouns and some long clusters between pairs of stressed syllables where it is relevant.
 
-| Latin | rook (romanized) |
-| --- | --- |
-| terrible | teir·ə·bəl |
-| philosophy | fi·los·ə·fii |
-| company | kəmp·ə·nii |
+| Latin | romanized rook | rook script |
+| --- | --- | --- |
+| terrible | teir·ə·bəl | ![terrible](https://i.postimg.cc/XJtdH8J8/2026_03_13_teir_b_l.jpg) |
+| philosophy | fi·laas·ə·fii | ![philosophy](https://i.postimg.cc/q7b8n0dk/2026_03_13_filos_fii.jpg) |
+| company | kəmp·ə·nii | ![company](https://i.postimg.cc/tgShPyHC/2026_03_13_k_mp_nii.jpg) |
 
 <!--
 
@@ -122,10 +123,10 @@ If the above considerations do not determine a syllable boundary, it falls to a 
 
 The rook script spelling of a word aims to be a reasonable phonemic transcription, rather than a pure phonetic transcription. This often results in using a non-weak vowel where in practice the vowel is usually reduced. In terms of placing syllable boundaries, it usually just means keeping /ks/ in a coda instead of placing · between k and s.
 
-| Latin | rook (romanized) |
-| --- | --- |
-| exact | eks·akt |
-| Mexico | meks·ə·kou |
+| Latin | romanized rook | rook script |
+| --- | --- | --- |
+| exact | eks·akt | (image missing) |
+| Mexico | meks·ə·kou | (image missing) |
 
 -->
 
