@@ -17,13 +17,13 @@ This rule includes avoiding clusters that are awkward or unwieldy, not just impo
 
 Some more examples of syllable boundaries determined by this rule alone:
 
-| Latin | rook |romanization |
+| Latin | rook |romanized rook |
 | --- | --- | -- |
 | exchange | ![exchange](https://i.postimg.cc/q7b8n0dT/2026_03_13_ekscheinj.jpg) | eks·cheinj |
 | abscess | ![abscess](https://i.postimg.cc/7LY3fhds/2026_03_13_abses.jpg) | ab·ses |
 | rashly | ![rashly](https://i.postimg.cc/4dYpQMJt/2026_03_13_rashlii.jpg) | rash·lii |
 | cohort | ![cohort](https://i.postimg.cc/R0scf9zZ/2026_03_13_kouhourt.jpg) | kou·hourt |
-| singing | - | sing·ing |
+| singing | (image missing) | sing·ing |
 | boiler | ![boiler](https://i.postimg.cc/LsCzfRFr/2026_03_13_boil_r.jpg) | boi·lər |
 | virus | ![virus](https://i.postimg.cc/HxFXZ2xv/2026_03_13_vairis.jpg) | vai·ris |
 | backyard | ![backyard](https://i.postimg.cc/d0H8dvc5/2026_03_13_bakyord.jpg) | bak·yaard |
@@ -36,22 +36,22 @@ Several consonants also have effects on the vowels before them when they appear 
 
 Here are some examples of words where placement in onset and coda reflects different sounds made by at least one of the letters.
 
-| Latin | rook (romanized) |
-| --- | --- |
-| butter | bət·ər |
-| deter | dii·tər |
-| humanity | hyuu·man·it·ii |
-| manatee | man·ə·tii |
-| satin | sat·ən |
-| sateen | sa·tiin |
-| pearl | pər·əl |
-| parole | pə·roul |
-| barrel | beir·əl |
-| payroll | pei·roul |
-| tailor | teil·ər |
-| Taylor | tei·lər |
-| bedraggle | bii·drag·əl |
-| bedrock | bed·raak |
+| Latin | rook | romanized rook |
+| --- | --- | --- |
+| butter | ![butter](https://i.postimg.cc/R0scf9xT/2026_03_13_b_t_r.jpg) | bət·ər |
+| deter | ![deter](https://i.postimg.cc/nLRv7Zfy/2026_03_13_diit_r.jpg) | dii·tər |
+| humanity | ![humanity](https://i.postimg.cc/R0scf9zS/2026_03_13_hyuumanitii.jpg) | hyuu·man·it·ii |
+| manatee | ![manatee](https://i.postimg.cc/W3d0wK2s/2026_03_13_man_tii.jpg) | man·ə·tii |
+| satin | (image not included) | sat·ən |
+| sateen | ![sateen](https://i.postimg.cc/mDP7yqbN/2026_03_13_satiin.jpg) | sa·tiin |
+| pearl | ![pearl](https://i.postimg.cc/V6JXWTYs/2026_03_13_p_r_l.jpg) | pər·əl |
+| parole | ![parole](https://i.postimg.cc/hjXV1wSP/2026_03_13_p_roul.jpg) | pə·roul |
+| barrel | ![barrel](https://i.postimg.cc/SKTW8qb1/2026_03_13_beir_l.jpg) | beir·əl |
+| payroll | ![payroll](https://i.postimg.cc/hjXV1wSt/2026_03_13_peiroul.jpg) | pei·roul |
+| tailor | ![tailor](https://i.postimg.cc/50DL730m/2026_03_13_teil_r2.jpg) | teil·ər |
+| Taylor | ![Taylor](https://i.postimg.cc/pT3zGZTk/2026_03_13_teil_r.jpg) | tei·lər |
+| bedraggle | ![bedraggle](https://i.postimg.cc/nLRv7Zfg/2026_03_13_biidrag_l.jpg) | bii·drag·əl |
+| bedrock | ![bedrock](https://i.postimg.cc/FKWjcmXW/2026_03_13_bedrok.jpg) | bed·raak |
 
 ## Short vowels need codas
 
