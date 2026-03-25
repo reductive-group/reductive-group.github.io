@@ -81,18 +81,18 @@ And some exceptions:
 
 In rook script, stressed syllables attract consonants and unstressed syllables repel them. This often aligns with the rules above, but not always. Let’s see some examples.
 
-| Latin | rook (romanized) |
-| --- | --- |
-| basic | beis·ik |
-| under | ənd·ər |
-| pastry | peis·trii |
-| active | akt·iv |
-| survey (noun) | sərv·ei |
-| become | bii·kəm |
-| indeed | in·diid |
-| restrict | rii·strikt |
-| activity | ak·tiv·it·ii |
-| survey (verb) | sər·vei |
+| Latin | romanized rook | rook script |
+| --- | --- | --- |
+| basic | beis·ik | ![basic](https://i.postimg.cc/jjgzNKY9/2026_03_13_beisik.jpg) |
+| under | ənd·ər | ![under](https://i.postimg.cc/nLc4Crg0/2026_03_13_nd_r.jpg) |
+| pastry | peis·trii | ![pastry](https://i.postimg.cc/wv1DQP6v/2026_03_13_peistrii.jpg) |
+| active | akt·iv | ![active](https://i.postimg.cc/9fFdr0Kg/2026_03_13_aktiv.jpg) |
+| survey (noun) | sərv·ei | ![survey (n.)](https://i.postimg.cc/ydD0y5VF/2026_03_13_s_rvei.jpg) |
+| become | bii·kəm | ![become](https://i.postimg.cc/yNQF9BC2/2026_03_13_biik_m.jpg) |
+| indeed | in·diid | ![indeed](https://i.postimg.cc/XvHwF30N/2026_03_13_indiid.jpg) |
+| restrict | rii·strikt | ![restrict](https://i.postimg.cc/50X8SGxF/2026_03_13_riistrikt.jpg) |
+| activity | ak·tiv·it·ii | ![activity](https://i.postimg.cc/HLswVnRN/2026_03_13_aktivitii.jpg) |
+| survey (verb) | sər·vei | ![survey (v.)](https://i.postimg.cc/nzXqG5HK/2026_03_13_s_rvei2.jpg) |
 
 ## Morphology
 
