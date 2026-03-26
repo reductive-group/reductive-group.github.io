@@ -130,6 +130,6 @@ The rook script spelling of a word aims to be a reasonable phonemic transcriptio
 
 -->
 
-Placing syllable boundaries is a bit of an art. If you take the considerations above into account when writing, even if you disagree with a spelling in the rook dictionary, it may still be spiritually correct—for example you may find “registry|rej·ə·strii” makes more sense than “registry|rej·is·trii” (the official spelling). This is especially true for spellings made to match your own way of speaking as opposed to mine; for example some people consistently flap the /t/ in “relative|rel·ə·tiv” so they may choose to spell it “relative|rel·it·iv” instead.
+Placing syllable boundaries is a bit of an art. If you take the considerations above into account when writing, even if you disagree with a spelling in the rook dictionary, it may still be spiritually correct—for example you may find “registry\|rej·ə·strii” makes more sense than “registry\|rej·is·trii” (the official spelling). This is especially true for spellings made to match your own way of speaking as opposed to mine; for example some people consistently flap the /t/ in “relative\|rel·ə·tiv” so they may choose to spell it “relative\|rel·it·iv” instead.
 
 [Home](/)
