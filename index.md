@@ -24,15 +24,15 @@ In rook script, every word is broken up into syllables, and each syllable has th
 <table class="photo-table">
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/d3CPWYx9/2025_11_06_syllable_structure.jpg" caption="One possible structure of a rook syllable" alt="Rook syllable" %}
+      {% include image.html src="https://i.postimg.cc/d3CPWYx9/2025_11_06_syllable_structure.jpg" caption="One possible structure of a rook syllable" alt="Rook syllable 1" %}
     </td>
     <td>
-      {% include image.html src="https://i.postimg.cc/SjFR81Kv/2026_03_13_strobes_syllable.jpg" caption="Example syllable: &ldquo;strobes&rdquo;" alt="Rook syllable strobes" %}
+      {% include image.html src="https://i.postimg.cc/N08XBKhQ/2026-03-13-strobes-syllable2.jpg" caption="Example syllable: &ldquo;strobes&rdquo;" alt="Rook syllable strobes" %}
     </td>
   </tr>
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/7b8h7tLR/2026_03_13_syllable_structure.jpg" caption="One possible structure of a rook syllable" alt="Rook syllable" %}
+      {% include image.html src="https://i.postimg.cc/7b8h7tLR/2026_03_13_syllable_structure.jpg" caption="One possible structure of a rook syllable" alt="Rook syllable 2" %}
     </td>
     <td>
       {% include image.html src="https://i.postimg.cc/jdfGxTjF/2026_03_25_pierced_example_syllable.jpg" caption="Example syllable: &ldquo;pierced&rdquo;" alt="Rook syllable pierced" %}
