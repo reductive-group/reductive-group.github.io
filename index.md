@@ -27,25 +27,23 @@ In rook script, every word is broken up into syllables, and each syllable has th
       {% include image.html src="https://i.postimg.cc/d3CPWYx9/2025_11_06_syllable_structure.jpg" caption="One possible structure of a rook syllable" alt="Rook syllable" %}
     </td>
     <td>
-      {% include image.html src="https://i.postimg.cc/SjFR81Kv/2026_03_13_strobes_syllable.jpg" caption="Example of a rook syllable using the word &ldquo;strobes&rdquo;" alt="Rook syllable strobes" %}
+      {% include image.html src="https://i.postimg.cc/SjFR81Kv/2026_03_13_strobes_syllable.jpg" caption="Example syllable: &ldquo;strobes&rdquo;" alt="Rook syllable strobes" %}
     </td>
   </tr>
-<!--
   <tr>
     <td>
       {% include image.html src="https://i.postimg.cc/7b8h7tLR/2026_03_13_syllable_structure.jpg" caption="One possible structure of a rook syllable" alt="Rook syllable" %}
     </td>
     <td>
-      {% include image.html src="https://i.postimg.cc/SjFR81Kv/2026_03_13_strobes_syllable.jpg" caption="Example of a rook syllable using the word &ldquo;drink&rdquo;" alt="Rook syllable drink" %}
+      {% include image.html src="https://i.postimg.cc/jdfGxTjF/2026_03_25_pierced_example_syllable.jpg" caption="Example syllable: &ldquo;pierced&rdquo;" alt="Rook syllable pierced" %}
     </td>
   </tr>
--->
 </table>
 
 <table>
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/GmXDQb1Q/2026_02_26_dhii_roi_l_yuuth.jpg" caption="A pangram in rook script. In Latin, the sentence reads, &ldquo;The royal youth are measuring bad vibes to exchange one more homebound sheep for a good sieve.&rdquo;" alt="Rook script pangram" %}
+      {% include image.html src="https://i.postimg.cc/DyGtvhzD/2026_03_25_dhii_roi_l_yuuth.jpg" caption="A pangram in rook script. In Latin, the sentence reads, &ldquo;The royal youth are measuring bad vibes to exchange one more homebound sheep for a good sieve.&rdquo;" alt="Rook script pangram" %}
     </td>
   </tr>
 </table>
