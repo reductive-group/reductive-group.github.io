@@ -20,7 +20,14 @@ figcaption
   text-align: center;
 };
 
-.rook
+@font-face {
+  font-family: 'testfont';
+  src: url('../assets/fonts/testfont.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+.testfont
 {
-  font-family: 'rook', serif;
+  font-family: 'testfont', serif;
 }
