@@ -19,7 +19,7 @@ Rook script is an alternative writing system for English. There are 37 letters i
   </tr>
 </table>
 
-In rook script, every word is broken up into syllables, and each syllable has three layers. The middle layer is always a single vowel. Above the vowel is the onset layer, and below is the coda. There may be multiple consonants in the onset and in the coda, though not every syllable has an onset or a coda. If an onset or coda has more than one consonant, the consonants are read from left to right.
+In rook script, every word is broken up into syllables, and each syllable has three layers. The middle layer is always a single vowel. Above the vowel is the onset, and below is the coda. There may be multiple consonants in the onset and in the coda, though not every syllable has an onset or a coda. If an onset or coda has more than one consonant, the consonants are read from left to right.
 
 <table class="photo-table">
   <tr>
@@ -48,9 +48,9 @@ In rook script, every word is broken up into syllables, and each syllable has th
   </tr>
 </table>
 
-Every word in English has an official rook spelling, specifying both the sequence of letters and the boundary points between syllables, though the spellings of many words have changed recently. You can see the current spellings of about 2,000 words in the rook script [dictionary](https://docs.google.com/spreadsheets/d/1Hr1Eyu2BLganoblsPMf3o-_bwgakcLiA/edit?usp=drive_link&ouid=112419566463325957235&rtpof=true&sd=true), and you can learn about the principles of rook script spelling in the pages of this blog.
+Every word in English has an official rook spelling, specifying both the sequence of letters and the boundary points between syllables. Spelling consistently and capturing the true sound of a word is a subjective art, so official spellings are subject to change. You can see the current spellings of about 2,000 words in the rook script [dictionary](https://docs.google.com/spreadsheets/d/1Hr1Eyu2BLganoblsPMf3o-_bwgakcLiA/edit?usp=drive_link&ouid=112419566463325957235&rtpof=true&sd=true), and you can learn about some principles of rook script spelling in the pages of this blog.
 
-If you’re interested in writing in rook script, it is recommended to start by learning the alphabet. When you have that down, practice reading, and practice spelling without worrying too much about the syllable boundaries. If you plan to use rook script in a professional capacity then you will want to make sure to spell correctly, including syllable boundaries.
+If you’re interested in writing in rook script, it is recommended to start by learning the alphabet. When you have that down, practice reading, and practice spelling without worrying too much about the syllable boundaries at first. If you plan to use rook script in a professional capacity then you will want to make sure to spell according to official rules, so make sure to begin your practice in advance.
 
 
 Read about the [alphabet]({% post_url 2026-02-24-Alphabet %})  
