@@ -11,9 +11,7 @@ Is the weak vowel one or two sounds? Like most General American English speakers
 
 Rook script takes the view that there is one weak vowel, spelled with either ə or i, depending on context. In the cases above, at least one of the examples contains a non-weak vowel. The weak vowel is spelled with ə when a syllable has no coda or the coda begins with r, n, or l; and spelled with i when followed any other letter in coda.
 
-However there are many words that are usually pronounced with a weak vowel in practice but using the weak vowel convention for them feels wrong—the underlying sound feels more truly like it should be some other vowel, possibly the other letter representing the weak vowel. In these cases rook script simply uses the letter that feels most appropriate. This practice should be kept to clear cut cases.
-
-Examples of the weak vowel spelled normally:
+Here are some examples of the weak vowel spelled normally:
 
 | Latin | rook (romanized) |
 | --- | --- |
@@ -32,7 +30,9 @@ Examples of the weak vowel spelled normally:
 | bonus | boun·**i**s |
 | honest | aan·**i**st |
 
-Examples of the words that are sometimes pronounced with a weak vowel but spelled otherwise:
+Note that in many cases the letter used for the weak vowel depends on the placement of a [syllable boundary]({% post_url 2026-02-28-Syllables %}).
+
+Many words are often pronounced with a weak vowel but when enunciated clearly use some other letter or letters. It’s often preferable to spell these words with a non-weak vowel. However, rook script aims to capture English as it exists in speaking, rather than as it was taught in Latin script. Official spellings therefore reflect hesitance to use anything other than the weak vowel in unstressed syllables (however however, there is no need for hesitance in the case of proper nouns and loanwords). Examples of words that are sometimes pronounced with a weak vowel but spelled otherwise include:
 
 | Latin | rook (romanized) |
 | --- | --- |
@@ -43,10 +43,8 @@ Examples of the words that are sometimes pronounced with a weak vowel but spelle
 | absorb | **ə**b·zourb |
 | advance | **a**d·vans |
 | protect | pr**ou**·tekt |
+| today | t**uu**dei |
 | Jacob | jeik·**ə**b |
 | Europe | yuur·**ə**p |
-| Nashville | nash·v**i**l |
-
-Note that in some cases the correct spelling of the weak vowel depends on the placement of a [syllable boundary]({% post_url 2026-02-28-Syllables %}). When deciding how to spell a word with a weak vowel, placing the syllable boundary is part of the process of deciding which letter to use.
 
 [Home](/)
