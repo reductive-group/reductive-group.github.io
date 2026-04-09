@@ -22,7 +22,7 @@ figcaption
 
 @font-face {
   font-family: 'testfont';
-  src: url('../assets/fonts/testfont.otf') format('opentype');
+  src: url('./assets/fonts/testfont.otf') format('opentype');
 }
 
 .testfont
