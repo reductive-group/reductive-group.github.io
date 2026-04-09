@@ -57,7 +57,7 @@ Here are some examples of words where placement in onset and coda reflects diffe
 
 Really this is the same principle as the first: it’s awkward to pronounce a short vowel the at the end of a word, and in rook script that is reflected on the syllable level. Officially, however, it’s less important to avoid ending a syllable on a short vowel than to avoid awkward consonant clusters, so the vowel rule has more exceptions.
 
-The vowels that need codas are i, e, a, and u. In stressed syllables, the letter ə does as well, though in unstressed syllables it represents the [weak vowel]({% post_url 2026-03-13-Weak-vowel %}) and does not need a coda. Note that o does not need a coda, even though it is often called a short vowel.
+The vowels that need codas are i, e, a, and u. In stressed syllables, the letter ə does as well, though in unstressed syllables it represents the [weak vowel]({% post_url 2026-03-13-Weak-vowel %}) and does not need a coda. Note that aa does not need a coda, even though its sound is sometimes called “short o”.
 
 Some examples of syllable boundaries determined by vowel checking:
 
