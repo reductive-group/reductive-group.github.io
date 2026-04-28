@@ -43,7 +43,7 @@ Many words are often pronounced with a weak vowel but when enunciated clearly us
 | absorb | **ə**b·zourb |
 | advance | **a**d·vans |
 | protect | pr**ou**·tekt |
-| today | t**uu**dei |
+| today | t**uu**·dei |
 | Jacob | jeik·**ə**b |
 
 [Home](/)
