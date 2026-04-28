@@ -45,6 +45,5 @@ Many words are often pronounced with a weak vowel but when enunciated clearly us
 | protect | pr**ou**·tekt |
 | today | t**uu**dei |
 | Jacob | jeik·**ə**b |
-| Europe | yuur·**ə**p |
 
 [Home](/)
