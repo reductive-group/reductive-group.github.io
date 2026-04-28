@@ -8,7 +8,7 @@ published: false
 
 
 
-<!--A challenge for any phonetic spelling reform proposal is that different people pronounce words differently, and often a single speaker will choose different pronunciations of the same word in different situations.
+<!-- A challenge for any phonetic spelling reform proposal is that different people pronounce words differently, and often a single speaker will choose different pronunciations of the same word in different situations.
 
 A popular approach to the infeasibility of a satisfactory solution is to allow all to spell everything how they wish. However if you do so I would ask, are you actually responding to a reform proposal, or are you creating your own? No one can stop you from doing the latter, but I have already worked through a number of hurdles on the way to successful reform and if you want to build on my work you'll be better understood adhering to my guidelines.-->
 
