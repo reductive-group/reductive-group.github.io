@@ -20,10 +20,16 @@ figcaption
   text-align: center;
 };
 
+.footnote
+{
+  font-size:smaller;
+  font-style: italic;
+};
+
 @font-face {
   font-family: 'testfont';
   src: url('../fonts/testfont.otf') format('opentype');
-}
+};
 
 .testfont
 {
