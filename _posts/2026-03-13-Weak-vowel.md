@@ -32,7 +32,7 @@ Here are some examples of the weak vowel spelled normally:
 
 Note that in many cases the letter used for the weak vowel depends on the placement of a [syllable boundary]({% post_url 2026-02-28-Syllables %}).
 
-Many words are often pronounced with a weak vowel but when enunciated clearly use some other letter or letters. It’s often preferable to spell these words with a non-weak vowel. However, rook script aims to capture English as it exists in speaking, rather than as it was taught in Latin script. Official spellings therefore reflect hesitance to use anything other than the weak vowel in unstressed syllables (however however, there is no need for hesitance in the case of proper nouns and loanwords). Examples of words that are sometimes pronounced with a weak vowel but spelled otherwise include:
+Many words are often pronounced with a weak vowel but when enunciated clearly use some other letter or letters. It’s often preferable to spell these words with a non-weak vowel. However, rook script aims to capture English as it exists in speaking, rather than as it was taught in Latin script. Official spellings therefore reflect hesitance to use anything other than the weak vowel in unstressed syllables (however however, there is less need for hesitance in the case of proper nouns and loanwords). Examples of words that are sometimes pronounced with a weak vowel but spelled otherwise include:
 
 | Latin | rook (romanized) |
 | --- | --- |
