@@ -26,7 +26,7 @@ Some more examples of syllable boundaries determined by this rule alone:
 | singing | sing·ing | (image missing) |
 | boiler | boi·lər | ![boiler](https://i.postimg.cc/LsCzfRFr/2026_03_13_boil_r.jpg) |
 | virus | vai·ris | ![virus](https://i.postimg.cc/HxFXZ2xv/2026_03_13_vairis.jpg) |
-| backyard | bak·yaard | ![backyard](https://i.postimg.cc/d0H8dvc5/2026_03_13_bakyord.jpg) |
+| backyard | bak·yaard | (image missing) |
 
 ## Differing sound realizations
 
@@ -51,7 +51,7 @@ Here are some examples of words where placement in onset and coda reflects diffe
 | tailor | teil·ər | ![tailor](https://i.postimg.cc/50DL730m/2026_03_13_teil_r2.jpg) |
 | Taylor | tei·lər | ![Taylor](https://i.postimg.cc/pT3zGZTk/2026_03_13_teil_r.jpg) |
 | bedraggle | bii·drag·əl | ![bedraggle](https://i.postimg.cc/nLRv7Zfg/2026_03_13_biidrag_l.jpg) |
-| bedrock | bed·raak | ![bedrock](https://i.postimg.cc/FKWjcmXW/2026_03_13_bedrok.jpg) |
+| bedrock | bed·raak | (image missing) |
 
 ## Short vowels need codas
 
@@ -102,7 +102,7 @@ This is the trickiest consideration. The problem is that in English, it’s diff
 | --- | --- | --- |
 | backstroke | bak·strouk | ![backstroke](https://i.postimg.cc/TP7rmGvC/2026_03_13_bakstrouk.jpg) |
 | aging | eij·ing | (image missing) |
-| logical | laaj·ik·əl | ![logical](https://i.postimg.cc/gJx3H5YY/2026_03_13_lojik_l.jpg) |
+| logical | laaj·ik·əl | (immage missing) |
 | summation | səm·ei·shən | ![summation](https://i.postimg.cc/LXJj37HL/2026_03_13_s_meish_n.jpg) |
 | maybe | mei·bii | ![maybe](https://i.postimg.cc/Hxrb9Kpd/2026_03_13_meibii.jpg) |
 | application | ap·lik·ei·shən | (image missing) |
