@@ -6,9 +6,9 @@ tags: [lesson]
 published: false
 ---
 
-Rook script was designed to fit as well as possible to English. Unfortunately, not everyone speaks the same English that I do. My vision for rook script is a proliferation of standards: people spell words according to the entity they are representing. In most contexts people will represent themselves and, after learning relevant official spellings, may choose to spell words to fit their own intended tone and style. This page outlines some strategies for navigating a few major fault lines in English pronunciation.
+Rook script was designed to fit as well as possible to English. Unfortunately, not everyone speaks the same English. The official spellings in the dictionary reflect the English I speak, but my dream for rook script is a proliferation of standards where people spell words according to the entity they are representing. In most contexts people will represent themselves and, after learning relevant official spellings, may choose to spell words to fit their own intended tone and style. This page outlines some strategies for navigating a few fault lines in English pronunciation with recommendations.
 
-To start with, my English—the original English of rook script—is from North America. That means I pronounce my /ɹ/s and flap my /t/s. If you pronounce “ska” and “scar“ as homophones, then rook script may not have enough vowels for your phonetic needs. And if you pronounce the /t/s similarly in the words “beetle” and “detail”, you might find the syllable boundaries arbitrary and difficult to remember. I don’t want to advise you not to learn rook script, but I do not know how to tell you fit rook script as tightly to your tongue as to mine.
+My English—the original English of rook script—is from North America. Most importantly, that means I pronounce my /ɹ/s and flap my /t/s. If you pronounce “ska” and “scar” as homophones, then rook script may not have enough vowels for your phonetic needs. And if you pronounce the /t/s similarly in the words “beetle” and “detail”, you might find syllable boundaries arbitrary and difficult to remember. In either case I don’t want to advise you not to learn rook script, but I do not know what to recommend to fit rook script as tightly to your tongue as to mine.
 
 Here is a list of things
 
