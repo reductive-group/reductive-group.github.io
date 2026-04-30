@@ -5,7 +5,7 @@ author: Reductive Group
 tags: [lesson]
 ---
 
-In unstressed syllables in English, vowels are not very distinct. The only vowels that usually appear in unstressed syllables are /i/, as in “buddy\|bəd·ii” or “react\|rii·akt”; /u/ as in “casual\|kazh·uu·əl”; and either /ə/ and /ɪ/, which are collectively known in rook script as the *weak vowels* or the *weak vowel*. Sometimes they are also called schwa and schwi, respectively.
+In unstressed syllables in English, vowels are not very distinct. The only vowels that usually appear in unstressed syllables are /i/, as in “buddy\|bəd·ii” or “react\|rii·akt”; /u/ as in “casual\|kazh·uu·əl”; and either /ə/ and <span class="nowrap">/ɪ/</span>, which are collectively known in rook script as the *weak vowels* or the *weak vowel*. Sometimes they are also called schwa and schwi, respectively.
 
 Is the weak vowel one or two sounds? Like most General American English speakers, in most contexts I do not audibly distinguish between weak /ə/ and weak /ɪ/. Nearly all people struggle at some point when learning to distinguish between spelling words ending in “able” and “ible”, though the spelling suggests distinction. Similarly, most people find it difficult to spell the words “affect” and “effect” correctly. However, there are a some words with unstressed syllables where one letter is obviously the better choice, such as “unsound\|ən·saund” vs “insane\|in·sein” or “Rosa’s\|rouz·əz” vs “Rose’s\|rouz·iz”.
 
