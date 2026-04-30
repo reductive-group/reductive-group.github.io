@@ -105,7 +105,6 @@ This is the trickiest consideration. The problem is that in English, it’s diff
 | logical | laaj·ik·əl | ![logical](https://i.postimg.cc/0NXrk11j/2026-04-29-laajik-l.jpg) |
 | summation | səm·ei·shən | ![summation](https://i.postimg.cc/LXJj37HL/2026_03_13_s_meish_n.jpg) |
 | maybe | mei·bii | ![maybe](https://i.postimg.cc/Hxrb9Kpd/2026_03_13_meibii.jpg) |
-| application | ap·lə·kei·shən | ![application](https://i.postimg.cc/YSChBqZc/2026-04-29-apl-keish-n.jpg) |
 
 ## Onset maximization
 
