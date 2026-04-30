@@ -42,7 +42,7 @@ Many words are often pronounced with a weak vowel but when enunciated clearly us
 | escape | **e**s·keip | ![escape](https://i.postimg.cc/W41hcbCb/2026-04-29-eskeip.jpg) |
 | absorb | **ə**b·zourb | ![absorb](https://i.postimg.cc/CxNz2fPg/2026-04-29-bzourb.jpg) |
 | advance | **a**d·vans | ![advance](https://i.postimg.cc/MGpvJK4h/2026-04-29-advans.jpg) |
-| protect | pr**ou**·tekt | (image missing) |
+| protect | pr**ou**·tekt | ![protect](https://i.postimg.cc/C1GMQcV7/2026-04-29-proutekt.jpg) |
 | today | t**uu**·dei | ![today](https://i.postimg.cc/pdcyWMMZ/2026-04-29-tuudei.jpg) |
 | Jacob | jeik·**ə**b | ![Jacob](https://i.postimg.cc/W4YtNcc4/2026-04-29-jeik-b.jpg) |
 
