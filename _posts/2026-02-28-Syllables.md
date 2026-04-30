@@ -30,9 +30,9 @@ Some more examples of syllable boundaries determined by this rule alone:
 
 ## Differing sound realizations
 
-The difference between onset and coda can sometimes affect the way a consonant or nearby vowel is pronounced. This is most noticeable with the letter t. At the start of words it tends to be pronounced strongly at the starts of words and weakly at the ends of them (meaning flapped, unreleased, dropped entirely, etc.). This can also be reflected within individual syllables: if t is the first letter of an onset it is usually pronounced strong, and if it’s in a coda it is pronounced weak. This way we see a difference between the t of “between\|bii·twiin” and the t of “beaten\|biit·ən”.
+The difference between onset and coda can sometimes affect the way a consonant or nearby vowel is pronounced. This is most noticeable with the letter t. At the start of words t tends to be pronounced strongly, and at the ends of words it tends to be pronounced weakly (meaning flapped, unreleased, dropped entirely, etc.). Syllable boundaries are chosen within words to reflect this difference within individual syllables: if t is the first letter of an onset it is usually pronounced strong, and if it’s in a coda it is pronounced weak. This way we see a difference between the t of “detail\|dii·teil” and the t of “beaten\|biit·ən”.
 
-Several consonants also have effects on the vowels before them when they appear in the coda, especially r and l. And sometimes pairs of consonants have distinct pronunciations together, especially tr and dr.
+Several consonants also have strong effects on the vowels before them when they appear in the coda, especially r and l. And sometimes pairs of consonants have distinct pronunciations together, especially tr and dr.
 
 Here are some examples of words where placement in onset and coda reflects different sounds made by at least one of the letters.
 
