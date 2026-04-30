@@ -31,6 +31,11 @@ figcaption
   white-space: nowrap;
 };
 
+.oblique
+{
+  font-style: oblique;
+};
+
 @font-face {
   font-family: 'testfont';
   src: url('../fonts/testfont.otf') format('opentype');
