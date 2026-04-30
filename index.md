@@ -6,7 +6,7 @@ Rook script is an alternative writing system for English. There are 37 letters i
       {% include image.html src="https://i.postimg.cc/wMN8WpGs/2025_11_06_rook_consonants_romanized.jpg" caption="Rook consonant sounds, using Latin letters" alt="Rook consonant sounds" %}
     </td>
     <td>
-      {% include image.html src="https://i.postimg.cc/gjhFMWTh/2025_11_06_rook_vowels_romanized.jpg" caption="Rook vowel sounds, using Latin letters" alt="Rook vowel sounds" %}
+      {% include image.html src="https://i.postimg.cc/xTmpDLbk/2026-04-29-rook-vowel-sounds.jpg" caption="Rook vowel sounds, using Latin letters" alt="Rook vowel sounds" %}
     </td>
   </tr>
   <tr>
@@ -14,7 +14,7 @@ Rook script is an alternative writing system for English. There are 37 letters i
       {% include image.html src="https://i.postimg.cc/FHTSZhQp/2026_02_26_rook_consonants.jpg" caption="Rook consonants" alt="Rook consonants" %}
     </td>
     <td>
-      {% include image.html src="https://i.postimg.cc/23Ryv95J/2026_03_13_rook_vowels.jpg" caption="Rook vowels" alt="Rook vowels" %}
+      {% include image.html src="https://i.postimg.cc/zXh2ZTRb/2026-04-29-rook-vowels.jpg" caption="Rook vowels" alt="Rook vowels" %}
     </td>
   </tr>
 </table>
@@ -43,14 +43,14 @@ In rook script, every word is broken up into syllables, and each syllable has th
 <table>
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/DyGtvhzD/2026_03_25_dhii_roi_l_yuuth.jpg" caption="A pangram in rook script. In Latin, the sentence reads, &ldquo;The royal youth are measuring bad vibes to exchange one more homebound sheep for a good sieve.&rdquo;" alt="Rook script pangram" %}
+      {% include image.html src="https://i.postimg.cc/VLtZQXb0/2026-04-29-dhii-roi-l-yuuth.jpg" caption="A pangram in rook script. In Latin, the sentence reads, &ldquo;The royal youth measure bad vibes to exchange one more homebound sheep for a good long sip.&rdquo;" alt="Rook script pangram" %}
     </td>
   </tr>
 </table>
 
 Every word in English has an official rook spelling, specifying both the sequence of letters and the boundary points between syllables. Spelling consistently and capturing the true sound of a word is a subjective art, so official spellings are subject to change. You can see the current spellings of about 2,000 words in the rook script [dictionary](https://docs.google.com/spreadsheets/d/1Hr1Eyu2BLganoblsPMf3o-_bwgakcLiA/edit?usp=drive_link&ouid=112419566463325957235&rtpof=true&sd=true), and you can learn about some principles of rook script spelling in the pages of this blog.
 
-If you’re interested in writing in rook script, it is recommended to start by learning the alphabet. When you have that down, practice reading, and practice spelling without worrying too much about the syllable boundaries at first. If you plan to use rook script in a professional capacity then you will want to make sure to spell according to official rules, so make sure to begin your practice in advance.
+If you’re interested in writing in rook script, I recommend to start by learning the alphabet. When you have the alphabet down, practice reading, and practice spelling without worrying too much about the syllable boundaries at first. If you plan to use rook script in a professional capacity then you will want to make sure to spell according to official rules, so make sure to begin your practice in advance.
 
 
 Read about the [alphabet]({% post_url 2026-02-24-Alphabet %})  
