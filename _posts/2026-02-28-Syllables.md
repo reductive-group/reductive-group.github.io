@@ -113,7 +113,7 @@ If the above considerations do not determine a syllable boundary, it falls to a 
 | Latin | romanized rook | rook script |
 | --- | --- | --- |
 | terrible | teir·ə·bəl | ![terrible](https://i.postimg.cc/XJtdH8J8/2026_03_13_teir_b_l.jpg) |
-| philosophy | fi·laas·ə·fii | ![philosophy](https://i.postimg.cc/q7b8n0dk/2026_03_13_filos_fii.jpg) |
+| philosophy | fi·laas·ə·fii | ![philosophy](https://i.postimg.cc/wBj7YTZt/2026-04-29-filaas-fii-2.jpg) |
 | company | kəmp·ə·nii | ![company](https://i.postimg.cc/tgShPyHC/2026_03_13_k_mp_nii.jpg) |
 
 <!--
