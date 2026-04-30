@@ -26,6 +26,11 @@ figcaption
   font-style: italic;
 };
 
+.nowrap
+{
+  white-space: nowrap;
+};
+
 @font-face {
   font-family: 'testfont';
   src: url('../fonts/testfont.otf') format('opentype');
