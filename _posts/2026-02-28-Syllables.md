@@ -23,10 +23,10 @@ Some more examples of syllable boundaries determined by this rule alone:
 | abscess | ab·ses | ![abscess](https://i.postimg.cc/7LY3fhds/2026_03_13_abses.jpg) |
 | rashly | rash·lii | ![rashly](https://i.postimg.cc/4dYpQMJt/2026_03_13_rashlii.jpg) |
 | cohort | kou·hourt | ![cohort](https://i.postimg.cc/R0scf9zZ/2026_03_13_kouhourt.jpg) |
-| singing | sing·ing | (image missing) |
+| singing | sing·ing | ![singing](https://i.postimg.cc/nLSMFffG/2026-04-29-singing.jpg) |
 | boiler | boi·lər | ![boiler](https://i.postimg.cc/LsCzfRFr/2026_03_13_boil_r.jpg) |
 | virus | vai·ris | ![virus](https://i.postimg.cc/HxFXZ2xv/2026_03_13_vairis.jpg) |
-| backyard | bak·yaard | (image missing) |
+| backyard | bak·yaard | ![backyard](https://i.postimg.cc/d0VLctpK/2026-04-29-bakyaard.jpg) |
 
 ## Differing sound realizations
 
@@ -42,7 +42,7 @@ Here are some examples of words where placement in onset and coda reflects diffe
 | deter | dii·tər | ![deter](https://i.postimg.cc/nLRv7Zfy/2026_03_13_diit_r.jpg) |
 | humanity | hyuu·man·it·ii | ![humanity](https://i.postimg.cc/R0scf9zS/2026_03_13_hyuumanitii.jpg) |
 | manatee | man·ə·tii | ![manatee](https://i.postimg.cc/W3d0wK2s/2026_03_13_man_tii.jpg) |
-| satin | sat·ən | (image missing) |
+| satin | sat·ən | ![satin](https://i.postimg.cc/PqVNXnnz/2026-04-29-sat-n.jpg) |
 | sateen | sa·tiin | ![sateen](https://i.postimg.cc/mDP7yqbN/2026_03_13_satiin.jpg) |
 | pearl | pər·əl | ![pearl](https://i.postimg.cc/V6JXWTYs/2026_03_13_p_r_l.jpg) |
 | parole | pə·roul | ![parole](https://i.postimg.cc/hjXV1wSP/2026_03_13_p_roul.jpg) |
@@ -51,7 +51,7 @@ Here are some examples of words where placement in onset and coda reflects diffe
 | tailor | teil·ər | ![tailor](https://i.postimg.cc/50DL730m/2026_03_13_teil_r2.jpg) |
 | Taylor | tei·lər | ![Taylor](https://i.postimg.cc/pT3zGZTk/2026_03_13_teil_r.jpg) |
 | bedraggle | bii·drag·əl | ![bedraggle](https://i.postimg.cc/nLRv7Zfg/2026_03_13_biidrag_l.jpg) |
-| bedrock | bed·raak | (image missing) |
+| bedrock | bed·raak | ![bedrock](https://i.postimg.cc/jjSLYdmb/2026-04-29-bedraak.jpg) |
 
 ## Short vowels need codas
 
@@ -101,11 +101,11 @@ This is the trickiest consideration. The problem is that in English, it’s diff
 | Latin | romanized rook | rook script |
 | --- | --- | --- |
 | backstroke | bak·strouk | ![backstroke](https://i.postimg.cc/TP7rmGvC/2026_03_13_bakstrouk.jpg) |
-| aging | eij·ing | (image missing) |
-| logical | laaj·ik·əl | (immage missing) |
+| aging | eij·ing | ![aging](https://i.postimg.cc/TP3pvYF2/2026-04-29-eijing.jpg) |
+| logical | laaj·ik·əl | ![logical](https://i.postimg.cc/0NXrk11j/2026-04-29-laajik-l.jpg) |
 | summation | səm·ei·shən | ![summation](https://i.postimg.cc/LXJj37HL/2026_03_13_s_meish_n.jpg) |
 | maybe | mei·bii | ![maybe](https://i.postimg.cc/Hxrb9Kpd/2026_03_13_meibii.jpg) |
-| application | ap·lik·ei·shən | (image missing) |
+| application | ap·lə·kei·shən | ![application](https://i.postimg.cc/YSChBqZc/2026-04-29-apl-keish-n.jpg) |
 
 ## Onset maximization
 
@@ -130,6 +130,6 @@ The rook script spelling of a word aims to be a reasonable phonemic transcriptio
 
 -->
 
-Placing syllable boundaries is a bit of an art. If you take the considerations above into account when writing, even if you disagree with a spelling in the rook dictionary, it may still be spiritually correct—for example you may find “registry\|rej·ə·strii” makes more sense than “registry\|rej·is·trii” (the official spelling). This is especially true for spellings made to match your own way of speaking as opposed to mine; for example some people consistently flap the /t/ in “relative\|rel·ə·tiv” so they may choose to spell it “relative\|rel·it·iv” instead.
+Placing syllable boundaries is a bit of an art, so take the considerations above into account when writing, even if you ultimately disagree with the official spelling in the rook dictionary. For personal use you may decide to use non-official spellings systematically. For example you may find “registry\|\*rej·ə·strii” makes more sense than “registry\|rej·is·trii” (the official spelling). This is especially true for spellings made to match your own way of speaking as opposed to mine; for example some people consistently flap the /t/ in “relative\|rel·ə·tiv” so they may choose to spell it “relative\|\*rel·it·iv” instead in personal use.
 
 [Home](/)
