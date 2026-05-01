@@ -3,7 +3,6 @@ layout: post
 title: "Adapting rook script"
 author: Reductive Group
 tags: [lesson]
-published: false
 ---
 
 Rook script was designed to fit as well as possible to English. Unfortunately, not everyone speaks the same English. My dream for rook script is a proliferation of standards where people spell words according to the entity they are representing. In most contexts people will represent themselves and may choose to spell words to fit their own intended tone and style. This page outlines some strategies for navigating a few fault lines in English pronunciation.
