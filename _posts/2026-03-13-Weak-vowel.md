@@ -5,7 +5,7 @@ author: Reductive Group
 tags: [lesson]
 ---
 
-In unstressed syllables in English, vowels are not very distinct. The only vowels that usually appear in unstressed syllables are /i/, as in “buddy\|bəd·ii” or “react\|rii·akt”; /u/ as in “casual\|kazh·uu·əl”; and either /ə/ and <span class="nowrap">/ɪ/</span>, which are collectively known in rook script as the *weak vowels* or the *weak vowel*. Sometimes they are also called schwa and schwi, respectively.
+In unstressed syllables in English, vowels are not very distinct. The only vowels that usually appear in unstressed syllables are /i/, as in “buddy\|bəd·ii” or “react\|rii·akt”; /u/ as in “casual\|kazh·uu·əl”; /ou/ as in “photobook\|fout·ou·buk”; and either /ə/ and <span class="nowrap">/ɪ/</span>, which are collectively known in rook script as the *weak vowels* or the *weak vowel*. Sometimes they are also called schwa and schwi, respectively.
 
 Is the weak vowel one or two sounds? Like most General American English speakers, in most contexts I do not audibly distinguish between weak /ə/ and weak /ɪ/. Nearly all people struggle at some point when learning to distinguish between spelling words ending in “able” and “ible”, though the spelling suggests distinction. Similarly, most people find it difficult to spell the words “affect” and “effect” correctly. However, there are a some words with unstressed syllables where one letter is obviously the better choice, such as “unsound\|ən·saund” vs “insane\|in·sein” or “Rosa’s\|rouz·əz” vs “Rose’s\|rouz·iz”.
 
@@ -45,5 +45,15 @@ Many words are often pronounced with a weak vowel but when enunciated clearly us
 | protect | pr**ou**·tekt | ![protect](https://i.postimg.cc/C1GMQcV7/2026-04-29-proutekt.jpg) |
 | today | t**uu**·dei | ![today](https://i.postimg.cc/pdcyWMMZ/2026-04-29-tuudei.jpg) |
 | Jacob | jeik·**ə**b | ![Jacob](https://i.postimg.cc/W4YtNcc4/2026-04-29-jeik-b.jpg) |
+
+## Why two letters?
+
+It complicates rook script to use two letters for the weak vowel while claiming it’s a single phoneme. In truth, it’s a little embarrassing. But the weak vowel in my English is genuinely problematic, and must be dealt with somehow. 
+
+In order to make rook script phonemic for my English, the weak vowel must be treated as a single phoneme, if not represented with a single letter. This rules out the easy option of letting traditional orthography determine the letter used for the weak vowel.
+
+The next option would be to use a single letter for the weak vowel, whether i or ə or a new letter, or even absence of a vowel. Always using either i or ə would introduce ambiguities make reading more difficult, so they’re right out. And using a new letter introduces new problems and crowds the design space the other vowels live in, while using no letter would open up problems for syllables without an onset or coda. And, whatever letter is used, it can’t readily deal with the presence of the weak vowel at the end of “subpoena\|səb·piin·ə” and non-weak vowel in “subpoenaed\|səb·piin·əd”. These problems could be addressed, but I didn’t like what addressing them (or ignoring them) would do to the script as a whole.
+
+There are two proactive reasons to use two vowels for one phoneme. The first is that, following the rules above, reading felt easier than it would under any other option in cosideration. If you see an unfamiliar word with ə or i, you can usually tell from the syllable boundaries whether it represents the weak vowel or not—and then you also have a clue about which syllables in the word should be stressed. But the real reason to use two letters that it reflects the sound of the weak vowel, which really does vary, following arcane logic, between a mid central /ə/ and close front /ɪ/. The weak vowels of “circa\|sərk·ə” and “circuit\|sərk·it” sound different to me, and the weak vowels of “industry\|ind·is·trii” and “registry\|rej·is·trii” sound exactly the same to me. The rules aren’t perfect, but they are fairly simple considering how many words they accurately capture, and they are phonemic.
 
 [Home](/)
