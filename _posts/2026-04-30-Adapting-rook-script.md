@@ -13,7 +13,7 @@ Below are a few non-universal features of North American English and some recomm
 
 ## Cot-caught merger
 
-I have a very complete cot-caught merger. To represent the vowel sound in “cot” distinctly from that in “caught”, at least one additional vowel is necessary. To help with this, I have designed a letter o, not used in official rook script, which looks like ou with one fewer stroke. See the bottom of the page on [the alphabet]({% post_url 2026-02-24-Alphabet %}).
+I have a very complete cot-caught merger. To represent the vowel sound in “cot” distinctly from that in “caught”, at least one additional vowel is necessary. To help with this, I have designed a letter “o”, not used in official rook script, which looks like “ou” with one fewer stroke. See the bottom of the page on [the alphabet]({% post_url 2026-02-24-Alphabet %}).
 
 The “caught” vowel is typically /ɔ/, while the “cot” vowel is typically /ɑ/. It is thus recommended to use “o” for “caught\|\*kot” and “aa” for “cot\|kaat”. There is some inconsistency in which other words have the “caught” vowel, with some people even using it far more frequently than the “cot” vowel. There is also inconsistency between speakers about whether /ɔ/ is checked or unchecked.
 
