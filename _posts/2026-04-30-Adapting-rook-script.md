@@ -45,17 +45,21 @@ I pronounce “pen\|pen” and “pin\|pin” distinctly, and their official roo
 
 ## Borrow and orange vowels
 
-Many words historically pronounced with a short o followed by r, /ɒɹ/, at some point became rhotic and split somewhat unpredictably between /ɑɹ/ and /ɔɹ/. In modern North American pronunciation they form two main sets. One set has a clean division line at the Canadian border, with most Canadians choosing /ɔɹ/ or something like it for words like “tomorrow”, “sorry”, and “borrow”, while most Americans (including me) use /ɑɹ/. These officially in rook script use the spelling “aar”, but if you use the Canadian pronunciation you may prefer “our”. I believe it is possible, though not common, to pronounce this sound differently from more obviously /ɔɹ/-having words like “board”. If this is you, I recommend “or” for the Canadian set and “our” for the larger set.
+Many words historically pronounced with a short o followed by r, /ɒɹ/, at some point became rhotic and split somewhat unpredictably between /ɑɹ/ and /ɔɹ/. In modern North American pronunciation they form two main sets. 
 
-The other set has less of a clean regional divide. Words like “orange”, “foreign”, and “horrible”. \[EDIT ME\]
+One set has a clean division line at the Canadian border, with most Canadians choosing /ɔɹ/ or something like it for words like “tomorrow”, “sorry”, and “borrow”, while most Americans (including me) use /ɑɹ/. If you use the Canadian pronunciation you may prefer “our” over the official rook spelling “aar”.
+
+The other set consists of those words that I pronounce with /ɔɹ/, with some people in the northeastern US often preferring /ɑɹ/. These include words like “orange\|our·ənj”, “foreign\|four·ən”, and “horrible\|hour·ə·bəl”, which each may be spelled with “aar” if you prefer.
+
+One note about the word “orange” is that although I and many others usually pronounce it as one syllable, “\*ournj”, I don’t recommend spelling it that way in formal contexts.
 
 ## Other Canadian pronunciations
 
 Most differences between my and typical Canadian pronunciation are not phonemic (see “about”). However, in addition to the words above, there are a couple of themes to Canadian pronunciation.
 
-Canadians use /æ/ rather than /ɑ/ for foreign borrowings containing a. See words like “llama\|laam·ə”, “pasta\|paast·ə“, “drama\|draam·ə”, etc. Canadiands will want to use “a” rather than “aa” for these.
+Canadians use /æ/ rather than /ɑ/ for foreign borrowings containing a. See words like “llama\|laam·ə”, “pasta\|paast·ə“, “drama\|draam·ə”, etc. Canadians will likely want to use “a” rather than “aa” for these.
 
-Canadians often pronounce French-borrowed words more like French. These include “niche\|nich”, “clique\|klik”, and “foyer\|foi·ər”. If this is you, you may prefer “\*niish”, “\*kliik”, and “\*foi·ei” or “\*fwaa·yei”, respectively.
+Canadians often pronounce French-borrowed words more like French. These include “niche\|nich”, “clique\|klik”, and “foyer\|foi·ər”. Official Canadian pronunciations, and personal pronunciations for some people who are not Canadian, may prefer “\*niish”, “\*kliik”, and “\*foi·ei” or even “\*fwaa·yei”.
 
 And finally, there are subtle differences in some prefixes and suffixes. See words like “resource\|rii·sours”, “process (noun)\|praa·ses”, and “produce (noun)\|prou·duus”. Canadians may opt for “\*rii·zours”, “\*prou·ses”, and “\*praa·duus”.
 
