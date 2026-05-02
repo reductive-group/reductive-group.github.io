@@ -13,9 +13,9 @@ Below are a few non-universal features of North American English and some recomm
 
 ## Cot-caught merger
 
-I have a very complete cot-caught merger. To represent the vowel sound in “cot” distinctly from that in “caught”, at least one additional vowel is necessary. To help with this, I have designed a letter “o”, not used in official rook script, which looks like “ou” with one fewer stroke. See the bottom of the page on [the alphabet]({% post_url 2026-02-24-Alphabet %}) for the design.
+I have a very complete cot-caught merger, meaning I pronounce the words “cot\|kaat” and “caught\|kaat” identically. To represent the vowel sound in “cot” distinctly from that in “caught”, at least one additional vowel is necessary. To help with this, I have designed a letter “o”, not used in official rook script, which looks like “ou” with one fewer stroke. See the bottom of the page on [the alphabet]({% post_url 2026-02-24-Alphabet %}) for the design.
 
-The “caught” vowel is typically /ɔ/, while the “cot” vowel is typically /ɑ/. It is thus recommended to use “o” for “caught\|\*kot” and “aa” for “cot\|kaat”. There is some inconsistency in which other words have the “caught” vowel, with some people even using it far more frequently than the “cot” vowel. There is also inconsistency between speakers about whether /ɔ/ is checked or unchecked.
+For most people who pronounce the words differently, the “caught” vowel is typically /ɔ/, while the “cot” vowel is typically /ɑ/. It is thus recommended to use “o” for “caught\|\*kot” and “aa” for “cot\|kaat”. There is some inconsistency between speakers in which other words have the “caught” vowel, with some people even using it far more frequently than the “cot” vowel.
 
 ## Weak vowel merger
 
@@ -27,7 +27,7 @@ Another pitfall to be aware of is that using “ə” in syllables with codas ma
 
 Some people, especially outside of North America, pronounce the three words Mary, merry, and marry in three distinct ways: Mary with something like a long a, /eɹ/ or /eəɹ/; merry with a short e, /ɛɹ/; and marry with a short a, /æɹ/. I pronounce all three the same—with /eɹ/—and the official rook script spelling of all three words is “meir·ii”.
 
-While I have heard people pronounce words like merry with a central vowel /ɜɹ/, I have not heard a distinct short e and long a before r in North America. If you are the person who does that, you may choose to spell “merry” and words like it (“terrible”, “very”, etc.) with “er”. If, more likely, you use /ɜɹ/, you may prefer “ər”.
+While I have heard people pronounce words like “merry” with a central vowel /ɜɹ/, I have not heard a distinct short e and long a before r in North America. If you are the person who does that, you may choose to spell “merry” and words like it (“terrible”, “very”, etc.) with “er”. If you use /ɜɹ/, you may prefer “ər”.
 
 What is more common, especially in the northeastern US, is pronouncing “Mary” and “merry” the same, but pronouncing “marry” differently. If you do this, you may want to spell words like “marry”, “barrel”, and “narrative” with “ar”.
 
@@ -41,7 +41,7 @@ However, I maintain several words that seem best described by the “uur” spel
 
 ## Pen-pin merger
 
-I pronounce “pen\|pen” and “pin\|pin” distinctly, and their official rook spellings are different to reflect that. However a common feature of southern and rural accents is to merge the two. To my ear the merged sound typically sounds closer to “in”. If you have pen-pin merger, you may wish to avoid the “en” spelling altogether.
+I pronounce “pen\|pen” and “pin\|pin” distinctly, and their official rook spellings are different to reflect that. However a common feature of southern accents is to merge the two. To my ear the merged sound typically sounds closer to “in” (though it is a diphthong, the same is true of my pronunciation of /æn/). If you have pen-pin merger, you may wish to avoid the “en” spelling altogether and always use “in”.
 
 ## Borrow and orange vowels
 
@@ -49,17 +49,17 @@ Many words historically pronounced with a short o followed by r, /ɒɹ/, at some
 
 One set has a clean division line at the Canadian border, with most Canadians choosing /ɔɹ/ or something like it for words like “tomorrow”, “sorry”, and “borrow”, while most Americans (including me) use /ɑɹ/. If you use the Canadian pronunciation you may prefer “our” over the official rook spelling “aar”.
 
-The other set consists of those words that I pronounce with /ɔɹ/, with some people in the northeastern US often preferring /ɑɹ/. These include words like “orange\|our·ənj”, “foreign\|four·ən”, and “horrible\|hour·ə·bəl”, which each may be spelled with “aar” if you prefer.
+The other set consists of those words that I pronounce with /ɔɹ/, with some people in the northeastern US often preferring /ɑɹ/. These include words like “orange\|our·ənj”, “foreign\|four·ən”, “authority\|ə·thour·it·ii”, and “horrible\|hour·ə·bəl”, which each may be spelled with “aar” if you prefer.
 
 One note about the word “orange” is that although I and many others usually pronounce it as one syllable, “\*ournj”, I don’t recommend spelling it that way in formal contexts.
 
 ## Other Canadian pronunciations
 
-Most differences between my and typical Canadian pronunciation are not phonemic (see “about”). However, in addition to the words above, there are a couple of themes to Canadian pronunciation.
+Most differences between my and typical Canadian pronunciation are not phonemic (see “about”). However, in addition to the “borrow”-type words mentioned above, there are several other words Canadians typically pronounce differently at a phoneme level, following a few themes.
 
-Canadians use /æ/ rather than /ɑ/ for foreign borrowings containing a. See words like “llama\|laam·ə”, “pasta\|paast·ə“, “drama\|draam·ə”, etc. Canadians will likely want to use “a” rather than “aa” for these.
+Canadians use /æ/ rather than /ɑ/ for borrowings spelled with a. See words like “llama\|laam·ə”, “pasta\|paast·ə“, “drama\|draam·ə”, etc. Canadians will likely want to use “a” rather than “aa” for these.
 
-Canadians often pronounce French-borrowed words more like French. These include “niche\|nich”, “clique\|klik”, and “foyer\|foi·ər”. Official Canadian pronunciations, and personal pronunciations for some people who are not Canadian, may prefer “\*niish”, “\*kliik”, and “\*foi·ei” or even “\*fwaa·yei”.
+Canadians often pronounce French-borrowed words more like French. These include “niche\|nich”, “clique\|klik”, and “foyer\|foi·ər”. Canadians (and others, to be honest) may prefer “\*niish”, “\*kliik”, and “\*foi·ei” or even “\*fwaa·yei”.
 
 And finally, there are subtle differences in some prefixes and suffixes. See words like “resource\|rii·sours”, “process (noun)\|praa·ses”, and “produce (noun)\|prou·duus”. Canadians may opt for “\*rii·zours”, “\*prou·ses”, and “\*praa·duus”.
 
