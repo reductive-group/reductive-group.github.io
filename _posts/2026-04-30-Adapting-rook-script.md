@@ -57,7 +57,7 @@ Canadians use /æ/ rather than /ɑ/ for foreign borrowings containing a. See wor
 
 Canadians often pronounce French-borrowed words more like French. These include “niche\|nich”, “clique\|klik”, and “foyer\|foi·ər”. If this is you, you may prefer “\*niish”, “\*kliik”, and “\*foi·ei” or “\*fwaa·yei”, respectively.
 
-And finally, there are subtle differences in some prefixes and suffixes. See words like “resource\|rii·sours”, “process (noun)\|praa·ses”, and “produce (noun)\|prou·duus”. Canadians may opt for “\*rii·zours”, “\*prou·ses”, and “\*praad·uus”.
+And finally, there are subtle differences in some prefixes and suffixes. See words like “resource\|rii·sours”, “process (noun)\|praa·ses”, and “produce (noun)\|prou·duus”. Canadians may opt for “\*rii·zours”, “\*prou·ses”, and “\*praa·duus”.
 
 ## One-off words
 
