@@ -57,8 +57,8 @@ Canadians use /æ/ rather than /ɑ/ for foreign borrowings containing a. See wor
 
 Canadians often pronounce French-borrowed words more like French. These include “niche\|nich”, “clique\|klik”, and “foyer\|foi·ər”. If this is you, you may prefer “\*niish”, “\*kliik”, and “\*foi·ei” or “\*fwaa·yei”, respectively.
 
-And finally, there are subtle differences in the pronunciations of certain suffixes and . See words like “resource\|rii·sours”, “process (noun)\|praa·ses”, and “produce (noun)\|prou·duus”. Canadians may opt for “\*rii·zours”, “\*prou·ses”, and “\*praad·uus”.
+And finally, there are subtle differences in some prefixes and suffixes. See words like “resource\|rii·sours”, “process (noun)\|praa·ses”, and “produce (noun)\|prou·duus”. Canadians may opt for “\*rii·zours”, “\*prou·ses”, and “\*praad·uus”.
 
 ## One-off words
 
-Every spelling in the rook script dictionary is based on a favored, “primary” pronunciation. This involved decisions about words I often pronounce differently in different situations. Words like “data”, “economical”, “feral”, “either”, and others. There are also surprising regionalisms: “bury”, “creek”, idk others. If a word looks wrong, you probably just don’t vibe with a particular pronunciation. For your personal use, you might want to choose a different one.
+Every spelling in the rook script dictionary is based on a favored, primary pronunciation. This involved decisions about words I may pronounce differently in different situations—words like “data”, “economical”, “feral”, and “either”. There are also regional variations: “caramel”, “aunt”, “bury”, “creek”, etc. If a word looks wrong, you probably just don’t vibe with a particular pronunciation. For your personal use, feel free to choose a different spelling based on how you think it should be spelled.
