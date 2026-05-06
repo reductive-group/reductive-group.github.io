@@ -36,7 +36,8 @@ figcaption
   font-style: oblique;
 };
 
-@font-face {
+@font-face 
+{
   font-family: 'testfont';
   src: url('../fonts/testfont.otf') format('opentype');
 };
@@ -44,4 +45,15 @@ figcaption
 .testfont
 {
   font-family: 'testfont', serif;
-}
+};
+
+@font-face 
+{
+  font-family: 'Tet';
+  src: url('../fonts/testfont-5-6.otf) format('opentype');
+};
+
+.testTet
+{
+  font-family: 'Tet', serif;
+};
