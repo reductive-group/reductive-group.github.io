@@ -15,7 +15,7 @@ Below are a few non-universal features of North American English and some recomm
 
 I have a very complete cot-caught merger, meaning I pronounce the words “cot\|kaat” and “caught\|kaat” identically. To represent the vowel sound in “cot” distinctly from that in “caught”, at least one additional vowel is necessary. To help with this, I have designed a letter “o”, not used in official rook script, which looks like “ou” with one fewer stroke. See the bottom of the page on [the alphabet]({% post_url 2026-02-24-Alphabet %}) for the design.
 
-For most people who pronounce the words differently, the “caught” vowel is typically /ɔ/, while the “cot” vowel is typically /ɑ/. It is thus recommended to use “o” for “caught\|\*kot” and “aa” for “cot\|kaat”. There is some inconsistency between speakers in which other words have the “caught” vowel, with some people even using it far more frequently than the “cot” vowel.
+For most people who pronounce the words differently, the word “caught” contains the /ɔ/ sound, while “cot” contains /ɑ/. It is thus recommended to use “o” for “caught\|\*kot” and “aa” for “cot\|kaat”. There is some inconsistency between speakers for which words have the “caught” vowel, with some speakers using it far more frequently than the “cot” vowel.
 
 ## Weak vowel merger
 
