@@ -21,7 +21,7 @@ For most people who pronounce the words differently, the word “caught” conta
 
 I have written about the approach rook script takes to the [single phonemic weak vowel]({% post_url 2026-03-13-Weak-vowel %}) in my English. If you do not have weak vowel merger, it should be easy enough to always use the most appopriate letter, between “i” and “ə”, for the appropriate unstressed vowel sounds. One thing to be aware of is that they may not line up with traditional spellings in any case—probably not all words traditionally spelled with “i” or “e” have a /ɪ/ sound truly distinct from /ə/.
 
-Another pitfall to be aware of is that using “ə” in syllables with codas makes it more difficult to find stress when reading. One option may be to use both “i” and “ə’ in unstressed syllables without codas and always use “i’ in unstressed syllables with codas.
+Another pitfall to be aware of is that using “ə” for a weak vowel in syllables with codas makes it more difficult to find stress when reading. One option may be to use both “i” and “ə’ in unstressed syllables without codas and always use “i’ in unstressed syllables with codas.
 
 ## Mary-merry-marry merger
 
