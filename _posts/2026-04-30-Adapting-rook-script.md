@@ -27,9 +27,9 @@ Another pitfall to be aware of is that using “ə” for a weak vowel in syllab
 
 Some people, especially outside of North America, pronounce the three words Mary, merry, and marry in three distinct ways: Mary with something like a long a, /eɹ/ or /eəɹ/; merry with a short e, /ɛɹ/; and marry with a short a, /æɹ/. I pronounce all three the same—with /eɹ/—and the official rook script spelling of all three words is “meir·ii”.
 
-While I have heard people pronounce words like “merry” with a central vowel /ɜɹ/, I have not heard a distinct short e and long a before r in North America. If you are the person who does that, you may choose to spell “merry” and words like it (“terrible”, “very”, etc.) with “er”. If you use /ɜɹ/, you may prefer “ər”.
+While I have heard people pronounce words like “merry” with a central vowel /ɜɹ/, I have not heard a distinct short e and long a before r in North America. If you are the person who uses short e /ɛɹ/, you may choose to spell “merry” and words like it (“terrible”, “very”, etc.) with “er” to distinguish from “eir”. If you use a central vowel /ɜɹ/, you may prefer “ər” for them.
 
-What is more common, especially in the northeastern US, is pronouncing “Mary” and “merry” the same, but pronouncing “marry” differently. If you do this, you may want to spell words like “marry”, “barrel”, and “narrative” with “ar”.
+Another common breakdown of these vowels, especially in the northeastern US, is pronouncing “Mary” and “merry” the same, but pronouncing “marry” differently. If you do this, you may want to spell words like “marry”, “barrel”, and “narrative” with “ar”.
 
 ## Poor-pour merger
 
