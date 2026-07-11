@@ -35,31 +35,31 @@ Another common breakdown of these vowels, especially in the northeastern US, is 
 
 This was the most frustrating merger to consider for the dictionary. In my own voice the merger is very nearly complete, but not entirely, so I feel rook script official spellings should continue to allow “uur” to appear. However, I find the /ʊɹ/ sound somewhat difficult to pronounce. Words with a historical /ʊɹ/ sound are spelled a few different ways in rook script.
 
-Most frequently, they have evolved into /ɜɹ/, as in words like “sure\|shər”, “endure\|en·dər”, “mature\|mə·chər”, “pure\| and “juror\|jər·ər”, and “neuron\|nər·aan”. If you lack the poor-pour merger, then you might want to spell these words with “uur”. More likely, in your dialect they may have evolved into /ɔɹ/ instead of /ɜɹ/—in that case you may prefer “our”, at least for some of them. In my own dialect this is pretty rare, with “poor\|pour” the only example I can think of.
+Most frequently, they have evolved into /ɜɹ/, as in words like “sure\|shər”, “endure\|en·dər”, “mature\|mə·chər”, and “juror\|jər·ər”, and “neuron\|nər·aan”. If you lack the poor-pour merger, then you might want to spell these words with “uur”. It’s also possible that in your dialect they may have evolved into /ɔɹ/ instead of /ɜɹ/—in that case you may prefer “our”, at least for some of them. In my own dialect this is pretty rare, with “poor\|pour” one of the only examples I can think of.
 
-However, I maintain several words that seem best described by the “uur” spelling. Some, like “pure\|pyuur”, I usually pronounce with /jɜɹ/, but not consistently. You may prefer “yər” or “yor” in these cases if you are more consistent about either than me. The rest I struggle with every time I have to say them. Words like “tourism\|tuur·iz·əm”, “masseur\|mə·suur”, “entrepreneur\|aan·trə·prə·nuur”, and “Coors\|kuurs” may come out of my mouth with any of /ʊɹ/, /ɔɹ/, /ɜɹ/, or even /u.ɜɹ/. If you are more consistent in one of these alternate spellings (i.e. if your poor-pour merger is more complete than mine) then pick the most appropriate.
+However, I maintain several words that seem best described by the “uur” spelling. Some, like “pure\|pyuur”, I usually pronounce with /jɜɹ/, but not consistently. You may prefer “yər” or “your” in these cases if you are consistent about either. The rest I struggle with every time I have to say them. Words like “tourism\|tuur·iz·əm”, “masseur\|mə·suur”, “entrepreneur\|aan·trə·prə·nuur”, and “Coors\|kuurs” may come out of my mouth with any of /ʊɹ/, /ɔɹ/, /ɜɹ/, or even /uu.ɜɹ/. If you are more consistent in one of these alternate spellings (i.e. if your poor-pour merger is more complete than mine) then pick the most appropriate.
 
 ## Pen-pin merger
 
-I pronounce “pen\|pen” and “pin\|pin” distinctly, and their official rook spellings are different to reflect that. However a common feature of southern accents is to merge the two. To my ear the merged sound typically sounds closer to “in” (though it is a diphthong, the same is true of my pronunciation of /æn/). If you have pen-pin merger, you may wish to avoid the “en” spelling altogether and always use “in”.
+I pronounce “pen\|pen” and “pin\|pin” distinctly, and their distinct official rook spellings reflect that. However, a common feature of southeastern US accents is to merge the two. To my ear the merged sound typically sounds closer to “in”. (Though it is a diphthong, the same is true of my pronunciation of /æn/) If you have a pen-pin merger, you may wish to avoid the “en” spelling altogether and always use “in”.
 
 ## Borrow and orange vowels
 
-Many words historically pronounced with a short o followed by r, /ɒɹ/, at some point became rhotic and split somewhat unpredictably between /ɑɹ/ and /ɔɹ/. In modern North American pronunciation they form two main sets. 
+Many words historically pronounced with a short o followed by r, /ɒɹ/, at some point became rhotic and split somewhat unpredictably between /ɑɹ/ and /ɔɹ/. In modern North America there are two major regions differing from me on how that split is formed.
 
-One set has a clean division line at the Canadian border, with most Canadians choosing /ɔɹ/ or something like it for words like “tomorrow”, “sorry”, and “borrow”, while most Americans (including me) use /ɑɹ/. If you use the Canadian pronunciation you may prefer “our” over the official rook spelling “aar”.
+One region has a surprisingly clean division line at the Canadian border, with most Canadians choosing /ɔɹ/ or something like it for words like “tomorrow”, “sorry”, and “borrow”, while most Americans (including me) use /ɑɹ/. If you use the Canadian pronunciation you may prefer “our” over the official rook spelling “aar”.
 
-The other set consists of those words that I pronounce with /ɔɹ/, with some people in the northeastern US often preferring /ɑɹ/. These include words like “orange\|our·ənj”, “foreign\|four·ən”, “authority\|ə·thour·it·ii”, and “horrible\|hour·ə·bəl”, which each may be spelled with “aar” if you prefer.
+The other region, centered around New York, goes the other way, taking words that I pronounce with /ɔɹ/ and pronouncing them as /ɑɹ/. These include words like “orange\|our·ənj”, “forest\|four·ist”, “authority\|ə·thour·it·ii”, and “horrible\|hour·ə·bəl”, which each may be spelled with “aar” if you prefer.
 
 One note about the word “orange” is that although I and many others usually pronounce it as one syllable, “\*ournj”, I don’t recommend spelling it that way in formal contexts.
 
 ## Other Canadian pronunciations
 
-Most differences between my and typical Canadian pronunciation are not phonemic (see “about”). However, in addition to the “borrow”-type words mentioned above, there are several other words Canadians typically pronounce differently at a phoneme level, following a few themes.
+Most differences between my and typical Canadian pronunciation are not phonemic (see e.g. “about”). However, in addition to the “borrow”-type words mentioned above, there are several other words Canadians typically pronounce differently at a phoneme level, following a few themes.
 
 Canadians use /æ/ rather than /ɑ/ for borrowings spelled with a. See words like “llama\|laam·ə”, “pasta\|paast·ə“, “drama\|draam·ə”, etc. Canadians will likely want to use “a” rather than “aa” for these.
 
-Canadians often pronounce French-borrowed words more like French. These include “niche\|nich”, “clique\|klik”, and “foyer\|foi·ər”. Canadians (and others, to be honest) may prefer “\*niish”, “\*kliik”, and “\*foi·ei” or even “\*fwaa·yei”.
+Canadians often pronounce French-borrowed words more like French. These include “niche\|nich”, “clique\|klik”, and “foyer\|foi·ər”. Canadians (along with some others from the US, but nearly all Canadians) tend to prefer “\*niish”, “\*kliik”, and “\*foi·ei” or even “\*fwaa·yei”.
 
 And finally, there are subtle differences in some prefixes and suffixes. See words like “resource\|rii·sours”, “process (noun)\|praa·ses”, and “produce (noun)\|prou·duus”. Canadians may opt for “\*rii·zours”, “\*prou·ses”, and “\*praa·duus”.
 
