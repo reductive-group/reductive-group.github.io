@@ -66,7 +66,7 @@ Some examples of syllable boundaries determined by vowel checking:
 | ledger | lej·ər | ![ledger](https://i.postimg.cc/3wSgp7Hw/2026_03_13_lej_r.jpg) |
 | savage | sav·ij | ![savage](https://i.postimg.cc/nzNBRkzq/2026_03_13_savij.jpg) |
 | pushy | push·ii | ![pushy](https://i.postimg.cc/Hxrb9KpJ/2026_03_13_pushii.jpg) |
-| spatula | spat·chuu·lə | ![spatula](https://i.postimg.cc/cHPw9mHM/2026_03_13_spatchuul.jpg) |
+| spatula | spach·uu·lə | <!--![spatula](https://i.postimg.cc/cHPw9mHM/2026_03_13_spatchuul.jpg)--> (Image not available) |
 
 It is possible for a short vowel to be spelled without a coda. Sometimes this happens because that vowel is often pronounced as a weak vowel in practice. Some examples of words where a short vowel lacks a coda:
 
@@ -79,7 +79,7 @@ It is possible for a short vowel to be spelled without a coda. Sometimes this ha
 
 ## Relative stress
 
-In rook script, stressed syllables attract consonants and unstressed syllables repel them. This often aligns with the rules above, but not always. Let’s see some examples.
+In rook script, stressed syllables attract consonants and unstressed syllables repel them. This often aligns with the rules above, but not always. When a completely unstressed syllable is adjacent to a fully or partially stressed syllable, the stressed syllable will usually take as many consonants as possible from the unstressed syllable. When two stressed syllables are adjacent, it’s typically the case that one has heavier stress than the other; in this case there is a preference for the syllable with heavier stress to absorb more consonants, though other syllable boundary rules may conflict. Let’s see some examples.
 
 | Latin | romanized rook | rook script |
 | --- | --- | --- |
@@ -103,8 +103,8 @@ This is the trickiest consideration. The problem is that in English, it’s diff
 | backstroke | bak·strouk | ![backstroke](https://i.postimg.cc/TP7rmGvC/2026_03_13_bakstrouk.jpg) |
 | aging | eij·ing | ![aging](https://i.postimg.cc/TP3pvYF2/2026-04-29-eijing.jpg) |
 | logical | laaj·ik·əl | ![logical](https://i.postimg.cc/0NXrk11j/2026-04-29-laajik-l.jpg) |
-| summation | səm·ei·shən | ![summation](https://i.postimg.cc/LXJj37HL/2026_03_13_s_meish_n.jpg) |
 | maybe | mei·bii | ![maybe](https://i.postimg.cc/Hxrb9Kpd/2026_03_13_meibii.jpg) |
+<!--| summation | səm·ei·shən | ![summation](https://i.postimg.cc/LXJj37HL/2026_03_13_s_meish_n.jpg) |-->
 
 ## Onset maximization
 
@@ -113,7 +113,7 @@ If the above considerations do not determine a syllable boundary, it falls to a 
 | Latin | romanized rook | rook script |
 | --- | --- | --- |
 | terrible | teir·ə·bəl | ![terrible](https://i.postimg.cc/XJtdH8J8/2026_03_13_teir_b_l.jpg) |
-| philosophy | fi·laas·ə·fii | ![philosophy](https://i.postimg.cc/wBj7YTZt/2026-04-29-filaas-fii-2.jpg) |
+| philosophy | fil·aas·ə·fii | <!--![philosophy](https://i.postimg.cc/wBj7YTZt/2026-04-29-filaas-fii-2.jpg)--> (Image not available) |
 | company | kəmp·ə·nii | ![company](https://i.postimg.cc/tgShPyHC/2026_03_13_k_mp_nii.jpg) |
 
 <!--
@@ -124,11 +124,11 @@ The rook script spelling of a word aims to be a reasonable phonemic transcriptio
 
 | Latin | romanized rook | rook script |
 | --- | --- | --- |
-| exact | eks·akt | (image missing) |
+| exact | eg·zakt | (image missing) |
 | Mexico | meks·ə·kou | (image missing) |
 
 -->
 
-Placing syllable boundaries is a bit of an art, so take the considerations above into account when writing, even if you ultimately disagree with the official spelling in the rook dictionary. For personal use you may decide to use non-official spellings systematically. For example you may find “registry\|\*rej·ə·strii” makes more sense than “registry\|rej·is·trii” (the official spelling). This is especially true for spellings made to match your own way of speaking as opposed to mine; for example some people consistently flap the /t/ in “relative\|rel·ə·tiv” so they may choose to spell it “relative\|\*rel·it·iv” instead in personal use.
+Placing syllable boundaries is a bit of an art, so take the considerations above into account when writing, even if you ultimately disagree with the official spelling in the rook dictionary. I would also recommend that you attempt to get an intuitive feel for the decisions made behind official spellings before deciding to forgo them. Then for personal use you may decide to use non-official spellings systematically. For example you may find “registry\|\*rej·is·trii” makes more sense than “registry\|rej·ə·strii” (the official spelling). This is especially true for spellings made to match your own way of speaking as opposed to mine; for example some people consistently flap the /t/ in “relative\|rel·ə·tiv” so they may choose to spell it “relative\|\*rel·it·iv” instead in personal use. For a comprehensive breakdown of such differences in pronunciation, see the guide to [adapting rook script]({% post_url 2026-04-30-Adapting-rook-script %}).
 
 [Home](/)
