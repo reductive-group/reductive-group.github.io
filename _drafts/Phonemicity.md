@@ -23,8 +23,8 @@ The truth is that choosing a convention for spelling words is a translation from
 - Being a syllabic alphabet, one major decision for rook script was how to take advantage of syllable boundaries
 - In the flow of speech, syllable and word boundaries are not naturally marked or translinguistically definable
 - The linguistics standard is onset maximization. I believe this soundly fails for English, especially American English
-- The standard used in Korean is referred to as “morphophonemic”. Unfortunately I do not understand well what that means for Koreans, but I don’t see a way to consistently prioritize morphology in syllable boundaries for English. There are so many meaningful components of words that take non-systematic forms, I don’t believe most of them can be accommodated. (In addition to boundaries in most compound words, there are a handful of prefixes and suffixes that are usually respected in official rook spellings, largely because they don’t excessively interfere with the following.)
-- Instead, syllable boundaries are primarily used to express phonetic and phonological information. First and foremost they reflect stress, and they can also 
+- The standard used in Korean is referred to as “morphophonemic”. Unfortunately I do not understand well what that means for Korean speakers, but I don’t see a way to consistently prioritize morphology in syllable boundaries for English. There are so many meaningful components of words that take non-systematic forms, I don’t believe most of them can be accommodated. (In addition to boundaries in most compound words, there are a handful of prefixes and suffixes that are usually respected in official rook spellings, largely because they don’t excessively interfere with the following.)
+- Instead, syllable boundaries are primarily used to express phonetic and phonological information. First and foremost they reflect stress, and they can also imply letters’ sounds are especially influenced by those of particular surrounding letters.
 
 ## Morphology, phonemics, and phonetics
 
