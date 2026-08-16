@@ -57,5 +57,5 @@ Read about the [alphabet]({% post_url 2026-02-24-Alphabet %})
 Read about the phonology underlying the [alphabet tables]({% post_url 2026-02-24-Tables %})  
 Read about the [weak vowel]({% post_url 2026-03-13-Weak-vowel %})  
 Read about finding [syllable boundaries]({% post_url 2026-02-28-Syllables %})  
-Read about how to [adapt rook script]({% post_url 2026-04-30-Adapting-rook-script %}) to differing pronunciations
+Read about how to [adapt rook script]({% post_url 2026-04-30-Adapting-rook-script %}) to differing pronunciations  
 Read about [word stress]({% post_url 2026-08-15-Stress %})
