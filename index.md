@@ -24,27 +24,27 @@ In rook script, every word is broken up into syllables, and each syllable has th
 <table class="photo-table">
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/fyMQN7c9/2026-11-07-home-5-syllable-1.jpg" caption="One possible structure of a rook syllable. Vowels without descenders sit entirely above the coda" alt="Rook syllable 1" %}
+      {% include image.html src="https://i.postimg.cc/fyMQN7c9/2026-11-07-home-5-syllable-1.jpg" caption="One possible structure of a rook syllable. Vowels without descenders sit entirely above the coda, so each layer is equally sized and horizontally centered within the syllable" alt="Rook syllable no descender" %}
     </td>
   </tr>
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/prPMHQfj/2026-11-07-home-6-strobes.jpg" caption="Example syllable: &ldquo;strobes&rdquo;" alt="Rook syllable strobes" %}
+      {% include image.html src="https://i.postimg.cc/prPMHQfj/2026-11-07-home-6-strobes.jpg" caption="Example syllable: &ldquo;strobes&rdquo;" alt="Rook syllable &ldquo;strobes&rdquo;. In simplified IPA, the word is pronounced /stroubz/, so the rook letters used to represent it are s-t-r-ou-b-z. s-t-r make up the onset, the vowel is ou (which has no descender), and the coda is b-z" %}
     </td>
   </tr>
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/L5mFpktf/2026-11-07-home-7-syllable-2.jpg" caption="One possible structure of a rook syllable. Vowels with descenders hang to the left of the coda" alt="Rook syllable 2" %}
+      {% include image.html src="https://i.postimg.cc/L5mFpktf/2026-11-07-home-7-syllable-2.jpg" caption="One possible structure of a rook syllable. A vowel with a descender hangs to the left of the coda, which is left-aligned against it" alt="Rook syllable with descender" %}
     </td>
   </tr>
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/fyMQN7cY/2026-11-07-home-8-pierced.jpg" caption="Example syllable: &ldquo;pierced&rdquo;" alt="Rook syllable pierced" %}
+      {% include image.html src="https://i.postimg.cc/fyMQN7cY/2026-11-07-home-8-pierced.jpg" caption="Example syllable: &ldquo;pierced&rdquo;" alt="Rook syllable &ldquo;pierced&rdquo;. In symplified IPA, the word is pronounced /pirst/, so the rook letters used to represent it are p-ii-r-s-t. p makes up the onset, the vowel is ii (which has a descender), and the coda is r-s-t" %}
     </td>
   </tr>
 </table>
 
-Here is an example sentence to show what it looks like when those syllables are combined into a sentence containing every letter. Here the sentence is written left to right, top to bottom, though rook script can be written in other directions.
+Here is an example sentence to show what it looks like when those syllables are combined into a sentence containing every letter. Here the sentence is written in rows left to right, top to bottom, though rook script can be written in other directions.
 <table>
   <tr>
     <td>
