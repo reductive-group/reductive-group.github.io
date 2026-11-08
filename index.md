@@ -34,7 +34,7 @@ In rook script, every word is broken up into syllables, and each syllable has th
   </tr>
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/L5mFpktf/2026-11-07-home-7-syllable-2.jpg" caption="One possible structure of a rook syllable. A vowel with a descender hangs to the left of the coda, which is left-aligned against it" alt="Rook syllable with descender" %}
+      {% include image.html src="https://i.postimg.cc/L5mFpktf/2026-11-07-home-7-syllable-2.jpg" caption="One possible structure of a rook syllable. A vowel with a descender hangs to the left of the coda, which is left-aligned against it. The onset is centered above the vowel" alt="Rook syllable with descender" %}
     </td>
   </tr>
   <tr>
