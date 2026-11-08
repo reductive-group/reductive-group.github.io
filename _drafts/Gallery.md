@@ -1,9 +1,0 @@
----
-layout: post
-title: "Gallery"
-author: Reductive Group
-tags: [lesson]
-published: false
----
-
-A bunch of photos of written rook script
