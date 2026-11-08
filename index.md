@@ -29,7 +29,7 @@ In rook script, every word is broken up into syllables, and each syllable has th
   </tr>
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/prPMHQfj/2026-11-07-home-6-strobes.jpg" caption="Example syllable: &ldquo;strobes&rdquo;. In simplified IPA, &ldquo;strobes&rdquo; is pronounced /stroubz/, so the rook letters used to represent it are s-t-r-ou-b-z. s-t-r make up the onset, the vowel is ou (which has no descender), and the coda is b-z" alt="Rook syllable strobes" %}
+      {% include image.html src="https://i.postimg.cc/prPMHQfj/2026-11-07-home-6-strobes.jpg" caption="Example syllable: &ldquo;strobes&rdquo;. In simplified IPA, &ldquo;strobes&rdquo; is pronounced /stroubz/, so the rook letters used to represent it are s-t-r-ou-b-z. s-t-r make up the onset, the vowel is ou (which has no descender), and the coda is b-z. Note also that one stroke is used for the horizontal line shared by b and z" alt="Rook syllable strobes" %}
     </td>
   </tr>
   <tr>
