@@ -29,7 +29,7 @@ In rook script, every word is broken up into syllables, and each syllable has th
   </tr>
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/prPMHQfj/2026-11-07-home-6-strobes.jpg" caption="Example syllable: &ldquo;strobes&rdquo;. In simplified IPA, &lquo;strobes&rquo; is pronounced /stroubz/, so the rook letters used to represent it are s-t-r-ou-b-z. s-t-r make up the onset, the vowel is ou (which has no descender), and the coda is b-z" alt="Rook syllable strobes" %}
+      {% include image.html src="https://i.postimg.cc/prPMHQfj/2026-11-07-home-6-strobes.jpg" caption="Example syllable: &ldquo;strobes&rdquo;. In simplified IPA, &ldquo;strobes&rdquo; is pronounced /stroubz/, so the rook letters used to represent it are s-t-r-ou-b-z. s-t-r make up the onset, the vowel is ou (which has no descender), and the coda is b-z" alt="Rook syllable strobes" %}
     </td>
   </tr>
   <tr>
@@ -39,7 +39,7 @@ In rook script, every word is broken up into syllables, and each syllable has th
   </tr>
   <tr>
     <td>
-      {% include image.html src="https://i.postimg.cc/fyMQN7cY/2026-11-07-home-8-pierced.jpg" caption="Example syllable: &ldquo;pierced&rdquo;. In simplified IPA, &lquo;pierced&rquo; is pronounced /pirst/, so the rook letters used to represent it are p-ii-r-s-t. p makes up the onset, the vowel is ii (which has a descender), and the coda is r-s-t" alt="Rook syllable pierced" %}
+      {% include image.html src="https://i.postimg.cc/fyMQN7cY/2026-11-07-home-8-pierced.jpg" caption="Example syllable: &ldquo;pierced&rdquo;. In simplified IPA, &ldquo;pierced&rdquo; is pronounced /pirst/, so the rook letters used to represent it are p-ii-r-s-t. p makes up the onset, the vowel is ii (which has a descender), and the coda is r-s-t" alt="Rook syllable pierced" %}
     </td>
   </tr>
 </table>
