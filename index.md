@@ -53,7 +53,7 @@ Here is an example sentence to show what it looks like when those syllables are 
   </tr>
 </table>
 
-Every word in English has an official rook spelling, specifying both the sequence of letters and the boundary points between syllables. Spelling consistently and capturing the true sound of a word is a subjective art, so my official spellings are subject to change. You can see my current spellings of about 7,000 words in the rook script <a href="https://docs.google.com/spreadsheets/d/1Hr1Eyu2BLganoblsPMf3o-_bwgakcLiA/edit" target="_blank">dictionary</a>, and you can learn about some principles of rook script spelling in the pages of this blog.
+Every word in English has an official rook spelling, specifying both the sequence of letters and the boundary points between syllables. Spelling consistently and capturing the true sound of a word is a subjective art, so my official spellings are subject to change. You can see my current spellings of about 7,000 words in the rook script <a href="https://docs.google.com/spreadsheets/d/1Hr1Eyu2BLganoblsPMf3o-_bwgakcLiA" target="_blank">dictionary</a>, and you can learn about some principles of rook script spelling in the pages of this blog.
 
 If you’re interested in writing in rook script, I recommend to start by learning the alphabet. When you have the alphabet down, practice reading, and practice spelling without worrying too much about placing the syllable boundaries precisely at first, since they are the most difficult and least necessary to be understood. You don’t have to spell words the same way I do, but I encourage you to learn how I use both letters and syllable boundaries before setting your own conventions.
 
